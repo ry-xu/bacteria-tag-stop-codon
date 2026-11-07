@@ -1,0 +1,75 @@
+cand_all	queries=GCA_030529995.1,GCA_963656345.1,GCA_056207115.1	minpid=50.0	aligned_codons=523127	TAG=51	TAA=1	TGA=3	nonstop_bug=0
+  query residue at TAG: [('W', 26), ('Y', 7), ('E', 3), ('F', 2), ('D', 2), ('Q', 2), ('S', 2), ('L', 2), ('M', 1), ('-', 1), ('R', 1), ('K', 1), ('A', 1)]
+  calibration: TGG->W 86% (n=5842); CAG->Q 61% (n=17725); TAC->Y 85% (n=8763); TAT->Y 84% (n=9589); GAG->E 71% (n=22141); AAG->K 69% (n=18529)
+b237_all	queries=GCA_030529995.1,GCA_963656345.1,GCA_056207115.1	minpid=50.0	aligned_codons=460125	TAG=43	TAA=0	TGA=2	nonstop_bug=0
+  query residue at TAG: [('W', 23), ('Y', 4), ('E', 4), ('F', 2), ('D', 2), ('M', 1), ('-', 1), ('Q', 1), ('R', 1), ('K', 1), ('A', 1), ('S', 1), ('L', 1)]
+  calibration: TGG->W 86% (n=5011); CAG->Q 60% (n=15710); TAC->Y 84% (n=7548); TAT->Y 83% (n=8169); GAG->E 71% (n=19999); AAG->K 69% (n=16649)
+b296_all	queries=GCA_030529995.1,GCA_963656345.1,GCA_056207115.1	minpid=50.0	aligned_codons=538457	TAG=51	TAA=3	TGA=4	nonstop_bug=0
+  query residue at TAG: [('W', 27), ('Y', 7), ('Q', 3), ('E', 3), ('F', 2), ('D', 2), ('M', 1), ('-', 1), ('R', 1), ('K', 1), ('A', 1), ('S', 1), ('L', 1)]
+  calibration: TGG->W 85% (n=6004); CAG->Q 60% (n=18187); TAC->Y 84% (n=8972); TAT->Y 83% (n=9809); GAG->E 70% (n=22837); AAG->K 68% (n=19548)
+glu_all	queries=GCA_030529995.1,GCA_963656345.1,GCA_056207115.1	minpid=50.0	aligned_codons=185197	TAG=112	TAA=0	TGA=1	nonstop_bug=0
+  query residue at TAG: [('E', 65), ('D', 12), ('Q', 6), ('A', 6), ('T', 4), ('K', 4), ('P', 3), ('M', 2), ('-', 2), ('S', 2), ('G', 2), ('R', 2), ('H', 1), ('Y', 1)]
+  calibration: TGG->W 79% (n=1562); CAG->Q 55% (n=5097); TAC->Y 75% (n=2906); TAT->Y 75% (n=3210); GAG->E 61% (n=5867); AAG->K 60% (n=6092)
+relB_all	queries=GCA_030529995.1,GCA_963656345.1	minpid=50.0	aligned_codons=261226	TAG=5	TAA=1	TGA=0	nonstop_bug=0
+  query residue at TAG: [('K', 4), ('A', 1)]
+  calibration: TGG->W 85% (n=2420); CAG->Q 59% (n=8677); TAC->Y 82% (n=4299); TAT->Y 81% (n=4211); GAG->E 70% (n=11360); AAG->K 68% (n=10551)
+caku1_all	queries=GCA_963656345.1,GCA_056207115.1	minpid=50.0	aligned_codons=576719	TAG=3	TAA=2	TGA=1	nonstop_bug=0
+  query residue at TAG: [('T', 1), ('W', 1), ('Q', 1)]
+  calibration: TGG->W 98% (n=6280); CAG->Q 94% (n=18279); TAC->Y 97% (n=10924); TAT->Y 97% (n=9609); GAG->E 93% (n=16703); AAG->K 94% (n=21806)
+caku2_all	queries=GCA_030529995.1,GCA_056207115.1	minpid=50.0	aligned_codons=577817	TAG=0	TAA=1	TGA=3	nonstop_bug=0
+  query residue at TAG: []
+  calibration: TGG->W 98% (n=6260); CAG->Q 94% (n=17486); TAC->Y 98% (n=10251); TAT->Y 98% (n=10179); GAG->E 93% (n=15246); AAG->K 94% (n=20820)
+cand_loose	queries=GCA_030529995.1,GCA_963656345.1,GCA_056207115.1	minpid=35.0	aligned_codons=572279	TAG=60	TAA=1	TGA=4	nonstop_bug=0
+  query residue at TAG: [('W', 30), ('Y', 7), ('Q', 3), ('E', 3), ('F', 2), ('D', 2), ('S', 2), ('L', 2), ('G', 1), ('M', 1), ('-', 1), ('V', 1), ('R', 1), ('K', 1), ('C', 1), ('A', 1), ('T', 1)]
+  calibration: TGG->W 82% (n=6474); CAG->Q 57% (n=19457); TAC->Y 81% (n=9676); TAT->Y 80% (n=10588); GAG->E 68% (n=23889); AAG->K 65% (n=19966)
+b237_loose	queries=GCA_030529995.1,GCA_963656345.1,GCA_056207115.1	minpid=35.0	aligned_codons=500395	TAG=51	TAA=1	TGA=3	nonstop_bug=0
+  query residue at TAG: [('W', 27), ('Y', 4), ('E', 4), ('F', 2), ('D', 2), ('G', 1), ('M', 1), ('-', 1), ('Q', 1), ('V', 1), ('R', 1), ('K', 1), ('C', 1), ('A', 1), ('S', 1), ('T', 1), ('L', 1)]
+  calibration: TGG->W 82% (n=5531); CAG->Q 56% (n=17178); TAC->Y 80% (n=8307); TAT->Y 80% (n=8952); GAG->E 67% (n=21508); AAG->K 65% (n=17769)
+b296_loose	queries=GCA_030529995.1,GCA_963656345.1,GCA_056207115.1	minpid=35.0	aligned_codons=593358	TAG=60	TAA=3	TGA=4	nonstop_bug=0
+  query residue at TAG: [('W', 31), ('Y', 8), ('Q', 3), ('E', 3), ('F', 2), ('D', 2), ('G', 1), ('M', 1), ('-', 1), ('V', 1), ('R', 1), ('K', 1), ('C', 1), ('A', 1), ('S', 1), ('T', 1), ('L', 1)]
+  calibration: TGG->W 82% (n=6697); CAG->Q 56% (n=20104); TAC->Y 80% (n=10026); TAT->Y 79% (n=10982); GAG->E 67% (n=24823); AAG->K 64% (n=21215)
+glu_loose	queries=GCA_030529995.1,GCA_963656345.1,GCA_056207115.1	minpid=35.0	aligned_codons=242483	TAG=179	TAA=0	TGA=1	nonstop_bug=0
+  query residue at TAG: [('E', 90), ('D', 21), ('Q', 15), ('T', 10), ('A', 9), ('G', 6), ('P', 5), ('K', 5), ('-', 5), ('R', 4), ('S', 3), ('M', 2), ('H', 2), ('L', 1), ('Y', 1)]
+  calibration: TGG->W 74% (n=2135); CAG->Q 50% (n=6606); TAC->Y 70% (n=3845); TAT->Y 70% (n=4383); GAG->E 57% (n=7454); AAG->K 55% (n=7535)
+relB_loose	queries=GCA_030529995.1,GCA_963656345.1	minpid=35.0	aligned_codons=301028	TAG=5	TAA=1	TGA=0	nonstop_bug=0
+  query residue at TAG: [('K', 4), ('A', 1)]
+  calibration: TGG->W 80% (n=2931); CAG->Q 55% (n=9980); TAC->Y 78% (n=4975); TAT->Y 77% (n=4979); GAG->E 67% (n=12666); AAG->K 64% (n=11674)
+caku1_loose	queries=GCA_963656345.1,GCA_056207115.1	minpid=35.0	aligned_codons=582856	TAG=3	TAA=2	TGA=1	nonstop_bug=0
+  query residue at TAG: [('T', 1), ('W', 1), ('Q', 1)]
+  calibration: TGG->W 97% (n=6361); CAG->Q 92% (n=18447); TAC->Y 96% (n=11051); TAT->Y 95% (n=9738); GAG->E 92% (n=16856); AAG->K 92% (n=22017)
+caku2_loose	queries=GCA_030529995.1,GCA_056207115.1	minpid=35.0	aligned_codons=581510	TAG=0	TAA=1	TGA=3	nonstop_bug=0
+  query residue at TAG: []
+  calibration: TGG->W 97% (n=6305); CAG->Q 92% (n=17589); TAC->Y 96% (n=10305); TAT->Y 96% (n=10249); GAG->E 92% (n=15340); AAG->K 92% (n=20933)
+GCA_056209055.1_byRelB	queries=GCA_056207115.1	minpid=50.0	aligned_codons=458553	TAG=47	TAA=1	TGA=3	nonstop_bug=0
+  query residue at TAG: [('W', 23), ('Y', 5), ('Q', 3), ('E', 3), ('F', 2), ('D', 2), ('S', 2), ('L', 2), ('R', 1), ('K', 1), ('-', 1), ('M', 1), ('A', 1)]
+  calibration: TGG->W 89% (n=5174); CAG->Q 68% (n=15663); TAC->Y 88% (n=7653); TAT->Y 87% (n=8403); GAG->E 76% (n=19603); AAG->K 74% (n=16103)
+QTP_TA20190011_bin.237_byRelB	queries=GCA_056207115.1	minpid=50.0	aligned_codons=404450	TAG=41	TAA=0	TGA=1	nonstop_bug=0
+  query residue at TAG: [('W', 21), ('E', 4), ('Y', 3), ('A', 2), ('F', 2), ('D', 2), ('Q', 1), ('R', 1), ('K', 1), ('-', 1), ('M', 1), ('S', 1), ('L', 1)]
+  calibration: TGG->W 89% (n=4418); CAG->Q 67% (n=13867); TAC->Y 88% (n=6572); TAT->Y 86% (n=7160); GAG->E 76% (n=17747); AAG->K 74% (n=14477)
+QTP_TA20190013_bin.296_byRelB	queries=GCA_056207115.1	minpid=50.0	aligned_codons=459797	TAG=46	TAA=3	TGA=3	nonstop_bug=0
+  query residue at TAG: [('W', 22), ('Y', 5), ('Q', 4), ('E', 3), ('A', 2), ('F', 2), ('D', 2), ('R', 1), ('K', 1), ('-', 1), ('M', 1), ('S', 1), ('L', 1)]
+  calibration: TGG->W 89% (n=5146); CAG->Q 66% (n=15717); TAC->Y 87% (n=7598); TAT->Y 86% (n=8341); GAG->E 75% (n=19797); AAG->K 73% (n=16600)
+GCA_030529995.1_byRelB	queries=GCA_056207115.1	minpid=50.0	aligned_codons=245524	TAG=0	TAA=0	TGA=0	nonstop_bug=0
+  query residue at TAG: []
+  calibration: TGG->W 84% (n=2299); CAG->Q 60% (n=7765); TAC->Y 82% (n=4327); TAT->Y 80% (n=3749); GAG->E 67% (n=7487); AAG->K 63% (n=10243)
+GCA_963656345.1_byRelB	queries=GCA_056207115.1	minpid=50.0	aligned_codons=248078	TAG=0	TAA=1	TGA=0	nonstop_bug=0
+  query residue at TAG: []
+  calibration: TGG->W 84% (n=2302); CAG->Q 60% (n=7563); TAC->Y 82% (n=4155); TAT->Y 80% (n=3952); GAG->E 67% (n=6959); AAG->K 64% (n=9823)
+GCA_045599485.1_byRelB	queries=GCA_056207115.1	minpid=50.0	aligned_codons=136645	TAG=85	TAA=0	TGA=1	nonstop_bug=0
+  query residue at TAG: [('E', 50), ('D', 8), ('A', 6), ('Q', 4), ('P', 3), ('N', 3), ('K', 2), ('S', 2), ('R', 2), ('-', 1), ('H', 1), ('T', 1), ('G', 1), ('Y', 1)]
+  calibration: TGG->W 81% (n=1107); CAG->Q 57% (n=3851); TAC->Y 77% (n=2151); TAT->Y 74% (n=2313); GAG->E 62% (n=4428); AAG->K 62% (n=4530)
+GCA_056209055.1_byCAKU	queries=GCA_030529995.1,GCA_963656345.1	minpid=50.0	aligned_codons=287402	TAG=18	TAA=0	TGA=0	nonstop_bug=0
+  query residue at TAG: [('W', 9), ('F', 3), ('Y', 2), ('E', 1), ('M', 1), ('D', 1), ('K', 1)]
+  calibration: TGG->W 83% (n=2688); CAG->Q 57% (n=9894); TAC->Y 82% (n=4524); TAT->Y 81% (n=4941); GAG->E 69% (n=13027); AAG->K 67% (n=11444)
+QTP_TA20190011_bin.237_byCAKU	queries=GCA_030529995.1,GCA_963656345.1	minpid=50.0	aligned_codons=265512	TAG=14	TAA=0	TGA=1	nonstop_bug=0
+  query residue at TAG: [('W', 6), ('F', 3), ('E', 1), ('M', 1), ('Y', 1), ('D', 1), ('K', 1)]
+  calibration: TGG->W 83% (n=2463); CAG->Q 57% (n=9209); TAC->Y 82% (n=4157); TAT->Y 82% (n=4489); GAG->E 69% (n=12329); AAG->K 67% (n=10853)
+QTP_TA20190013_bin.296_byCAKU	queries=GCA_030529995.1,GCA_963656345.1	minpid=50.0	aligned_codons=307327	TAG=20	TAA=1	TGA=1	nonstop_bug=0
+  query residue at TAG: [('W', 11), ('F', 3), ('Y', 2), ('E', 1), ('M', 1), ('D', 1), ('K', 1)]
+  calibration: TGG->W 83% (n=2929); CAG->Q 57% (n=10454); TAC->Y 82% (n=4836); TAT->Y 81% (n=5311); GAG->E 69% (n=13911); AAG->K 67% (n=12417)
+GCA_056207115.1_byCAKU	queries=GCA_030529995.1,GCA_963656345.1	minpid=50.0	aligned_codons=261226	TAG=5	TAA=1	TGA=0	nonstop_bug=0
+  query residue at TAG: [('K', 4), ('A', 1)]
+  calibration: TGG->W 85% (n=2420); CAG->Q 59% (n=8677); TAC->Y 82% (n=4299); TAT->Y 81% (n=4211); GAG->E 70% (n=11360); AAG->K 68% (n=10551)
+GCA_045599485.1_byCAKU	queries=GCA_030529995.1,GCA_963656345.1	minpid=50.0	aligned_codons=142981	TAG=89	TAA=0	TGA=0	nonstop_bug=0
+  query residue at TAG: [('E', 55), ('D', 10), ('Q', 5), ('K', 4), ('T', 3), ('P', 2), ('M', 2), ('A', 2), ('S', 2), ('G', 2), ('-', 1), ('R', 1)]
+  calibration: TGG->W 77% (n=1163); CAG->Q 54% (n=3936); TAC->Y 74% (n=2231); TAT->Y 74% (n=2429); GAG->E 61% (n=4675); AAG->K 59% (n=4920)

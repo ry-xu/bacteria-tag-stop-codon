@@ -1,0 +1,26 @@
+##### GCA_056261325.1  controls=GCA_045640465.1,GCA_902803485.1,GCA_017959345.1  sister=GCA_056232285.1
+1. sites aligned in >=2 controls: 166668; unanimous: 110288
+   test CAG      sites=  4428 unanimous=  2611 (59%) | among unanimous: Q:78.8% E:4.7% A:2.5% R:2.5% K:2.3% D:1.2%
+   test CAA      sites=   232 unanimous=   103 (44%) | among unanimous: Q:64.1% E:12.6% A:3.9% R:3.9% H:3.9% K:2.9%
+   test GAG      sites=  7028 unanimous=  4076 (58%) | among unanimous: E:87.6% D:4.3% K:1.2% A:1.1% Q:1.0% P:0.7%
+   test GAA      sites=  5651 unanimous=  3193 (57%) | among unanimous: E:86.2% D:4.5% A:1.5% Q:1.4% K:1.1% P:1.1%
+   test AAR(K)   sites= 10518 unanimous=  5622 (53%) | among unanimous: K:81.1% R:7.7% E:2.5% A:1.4% Q:1.1% G:0.9%
+   test GAY(D)   sites=  9389 unanimous=  6532 (70%) | among unanimous: D:90.0% E:5.0% N:1.2% G:1.0% S:0.6% A:0.5%
+   test CGN+AGR  sites=  8123 unanimous=  5572 (69%) | among unanimous: R:89.6% K:4.3% E:1.0% Q:0.6% H:0.5% A:0.5%
+   test TGG(W)   sites=  1129 unanimous=   912 (81%) | among unanimous: W:93.5% L:1.3% F:1.3% Y:1.3% E:0.5% K:0.3%
+   test TAY(Y)   sites=  6246 unanimous=  4512 (72%) | among unanimous: Y:91.3% F:4.3% L:0.9% H:0.6% W:0.4% R:0.3%
+   test TTR(L)   sites=  1853 unanimous=  1256 (68%) | among unanimous: L:88.4% I:3.1% V:2.3% M:1.8% F:0.7% C:0.6%
+   test TAG      sites=   117 unanimous=    71 (61%) | among unanimous: Q:69.0% E:11.3% K:5.6% P:2.8% M:1.4% V:1.4%
+2. TAG enrichment (log2 obs/exp) by unanimous control residue (n_TAG=70): Q:+4.7 E:+0.6 C:+0.3 K:+0.2 W:-0.4 M:-0.5
+   Pearson r of TAG enrichment vector vs each amino acid codon family: Q:0.68 E:0.38 K:0.29 D:0.24 S:0.21 H:0.20 ... E:0.38  (Q-family n=2714, E-family n=7269)
+3. LL of 70 unanimous TAG-site residues; delta vs best: Q:0.0  bg:-150.3  E:-190.4  K:-204.3  H:-239.3 | LL(Q)-LL(E)=190.4  LL(Q)-LL(bg)=150.3  LL(E)-LL(bg)=-40.1
+   bootstrap 95% CI LL(Q)-LL(E): [146.0, 228.8]
+   unanimous-Q share at TAG sites 69.0% vs expected if Gln 78.2%, if Glu 1.2%, background 2.3%; unanimous-E share 11.3% vs if Gln 5.0%, if Glu 87.0%
+4. sister GCA_056232285.1: codon at the orthologous position (strict columns)
+   T TAG  n=   163: sister TAG 9.8%  CAR(Q) 37.4%  GAR(E) 10.4%  AAR(K) 6.1%  other 36.2% | top: CAG:58 TAG:16 GAA:10 GAG:7 GCG:6
+   T CAG  n=  6201: sister TAG 2.8%  CAR(Q) 54.9%  GAR(E) 7.3%  AAR(K) 6.9%  other 28.2% | top: CAG:3295 AAG:331 GAA:270 GAG:180 TAG:173
+   T CAA  n=   361: sister TAG 1.9%  CAR(Q) 41.8%  GAR(E) 10.0%  AAR(K) 8.3%  other 38.0% | top: CAG:115 CAA:36 GAG:18 GAA:18 AAG:15
+   T GAG  n=  9572: sister TAG 0.3%  CAR(Q) 2.9%  GAR(E) 68.6%  AAR(K) 3.8%  other 24.4% | top: GAA:3501 GAG:3065 GAC:457 AAG:281 GAT:279
+   T GAA  n=  8031: sister TAG 0.2%  CAR(Q) 2.5%  GAR(E) 67.4%  AAR(K) 4.0%  other 26.0% | top: GAA:3532 GAG:1877 GAC:369 GAT:286 AAG:205
+   T all  n=237477: sister TAG 0.2%  CAR(Q) 2.6%  GAR(E) 7.3%  AAR(K) 6.4%  other 83.6% | top: AAG:10880 GAA:10094 GGC:9618 ATC:8789 GAC:8064
+5. mixture on unanimous TAG residues: ML weights Gln=0.89 Glu=0.08 background=0.03; 95% profile-likelihood interval for the Glu weight: [0.01, 0.18]; LL(pure Glu+bg best) - LL(ML) = -20.3 (Glu weight >= 0.5)

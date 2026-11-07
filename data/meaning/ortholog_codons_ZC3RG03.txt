@@ -1,0 +1,14 @@
+== GCA_937907055.1
+GCA_937907055.1: 201 in-frame TAG in 165 genes; 230 site x relative pairs
+sites with an orthologous codon: 108
+  relative's amino acid: [('E', 32), ('I', 9), ('K', 7), ('Q', 6), ('A', 6), ('S', 6), ('R', 5), ('M', 4), ('D', 4), ('Y', 4), ('P', 4), ('L', 4), ('V', 4), ('G', 3), ('H', 3), ('N', 3), ('W', 2), ('T', 2)]
+  relative's codon     : [('GAG', 22), ('GAA', 10), ('CAG', 6), ('ATG', 4), ('GAT', 4), ('AAG', 4), ('ATC', 4), ('ATT', 4), ('AAA', 3), ('TAT', 3), ('GCA', 2), ('GGT', 2), ('CTG', 2), ('CAT', 2), ('CGC', 2), ('GCC', 2), ('TGG', 2), ('AAC', 2), ('TCA', 2), ('CCG', 2)]
+  sites where >=3 relatives all have the same amino acid: [('E', 14), ('Q', 5), ('I', 4), ('R', 3), ('K', 2), ('D', 1), ('A', 1), ('W', 1)]
+== GCA_045628485.1
+GCA_045628485.1: 233 in-frame TAG in 168 genes; 264 site x relative pairs
+sites with an orthologous codon: 183
+  relative's amino acid: [('E', 36), ('K', 20), ('T', 19), ('A', 11), ('R', 10), ('S', 10), ('C', 10), ('V', 9), ('G', 9), ('Q', 8), ('P', 7), ('N', 6), ('D', 6), ('H', 5), ('M', 4), ('L', 4), ('I', 3), ('Y', 2), ('F', 2), ('W', 2)]
+  relative's codon     : [('GAA', 21), ('GAG', 15), ('AAA', 13), ('ACC', 13), ('CAG', 8), ('TGC', 8), ('AAG', 7), ('AGC', 6), ('AAC', 4), ('GAT', 4), ('ATG', 4), ('CCG', 4), ('CAC', 4), ('GCC', 4), ('GGC', 4), ('ACG', 4), ('GCT', 3), ('AGA', 3), ('GGG', 3), ('GTA', 3)]
+  sites where >=3 relatives all have the same amino acid: [('E', 8), ('D', 1), ('I', 1), ('Q', 1)]
+
+[exited with code 0]

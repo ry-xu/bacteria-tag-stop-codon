@@ -1,0 +1,26 @@
+polymorphic TAG sites: 22; another species' genome >= 95% identical over >= 100 nt of the window: 1; of these, the other genome carries the polymorphic alt codon: 0
+   best identity distribution: [('none', 12), (80, 5), (75, 4), (100, 1)]
+non-polymorphic TAG sites: 190; another species' genome >= 95% identical over >= 100 nt of the window: 8; of these, the other genome carries the polymorphic alt codon: 0
+   best identity distribution: [('none', 152), (75, 11), (80, 9), (100, 7), (70, 5), (90, 3), (85, 2), (95, 1)]
+   JBAEHL010000022.1:4817 alts=CAG best_other=(81.308, 107) T1900044957_TA20190013_bin.200 codon=CAG
+   JBAEHL010000024.1:10872 alts=CAG best_other=-  codon=-
+   JBAEHL010000035.1:16531 alts=CAG best_other=-  codon=-
+   JBAEHL010000036.1:22598 alts=TGG best_other=-  codon=-
+   JBAEHL010000041.1:23338 alts=CAG best_other=-  codon=-
+   JBAEHL010000049.1:2831 alts=TGG best_other=-  codon=-
+   JBAEHL010000059.1:3644 alts=TGG best_other=(75.238, 105) T1900044957_TA20190013_bin.290 codon=TGG
+   JBAEHL010000064.1:26779 alts=CAG best_other=-  codon=-
+   JBAEHL010000084.1:20111 alts=CAG best_other=(82.432, 148) T1900044957_TA20190013_bin.200 codon=CAG
+   JBAEHL010000084.1:22783 alts=CAG best_other=-  codon=-
+   JBAEHL010000084.1:60585 alts=CAG best_other=-  codon=-
+   JBAEHL010000086.1:29645 alts=AAG best_other=(78.431, 153) T1900044952_TA20190005_bin.191 codon=AAG
+   JBAEHL010000090.1:4410 alts=TGG best_other=-  codon=-
+   JBAEHL010000094.1:1642 alts=TGG best_other=(81.579, 152) T1900044957_TA20190013_bin.200 codon=TGG
+   JBAEHL010000105.1:9176 alts=TGG best_other=(100.0, 153) T1900044954_TA20190008_bin.73 codon=TAG
+   JBAEHL010000123.1:30954 alts=CAG best_other=(78.808, 151) T1900044957_TA20190013_bin.200 codon=GAC
+   JBAEHL010000124.1:34170 alts=TAC best_other=-  codon=-
+   JBAEHL010000128.1:2240 alts=CAG best_other=-  codon=-
+   JBAEHL010000147.1:3131 alts=TGG best_other=(84.404, 109) T1900044957_TA20190013_bin.200 codon=TGG
+   JBAEHL010000182.1:9834 alts=TGG best_other=(75.424, 118) T1900044957_TA20190013_bin.200 codon=TGG
+   JBAEHL010000193.1:12797 alts=GAG best_other=(82.353, 153) T1900044954_TA20190008_bin.73 codon=GAG
+   JBAEHL010000087.1:25301 alts=TGG best_other=-  codon=-

@@ -1,0 +1,106 @@
+
+===== GCA_024404275.1  set=census
+A. TAG sites with >=1 control aligned: 19
+   vs GCA_934796175.1: n=18 E:13 D:3 K:1 I:1
+   vs GCA_004556155.1: n=19 E:13 D:3 A:1 K:1 I:1
+   vs GCA_963624325.1: n=18 E:13 D:3 K:1 V:1
+   per-site majority over controls: n=19 E:13 D:3 A:1 K:1 I:1
+B. calibration (pooled over 3 controls; % = share of control residues):
+   test GAG (E): n=5213 E:73.1% D:8.8% A:4.2% Q:4.0% K:1.4% T:1.3%
+   test GAA (E): n=5127 E:69.3% D:9.4% A:5.3% Q:4.2% S:1.9% R:1.6%
+   test CAG (Q): n=4395 Q:69.9% E:5.4% R:4.5% K:3.8% A:3.5% T:1.5%
+   test CAA (Q): n=221 Q:59.3% A:9.5% E:7.2% D:5.0% R:4.1% N:3.2%
+   test GAT/GAC (D): n=8569 D:78.0% E:8.5% N:2.7% A:2.6% S:1.5% Q:1.1%
+   test AAG/AAA (K): n=8042 K:71.5% R:9.0% A:3.1% Q:3.0% E:2.6% T:1.6%
+   test TAT/TAC (Y): n=4186 Y:82.2% F:7.0% H:1.6% L:1.2% A:1.0% I:0.9%
+   test TTG (L): n=832 L:78.4% I:5.3% M:3.5% V:3.0% A:1.8% F:1.3%
+   test TCG (S): n=525 S:63.2% A:9.5% T:4.8% G:2.5% Q:2.3% N:2.3%
+   test TGG (W): n=892 W:76.5% Y:7.3% F:4.4% L:3.5% R:1.9% A:1.6%
+   test TAG          : n=55 E:70.9% D:16.4% K:5.5% I:3.6% A:1.8% V:1.8%
+C. log-likelihood of 55 TAG-site control residues under each amino-acid profile (best first, delta vs best):
+   E:0.0  D:-72.0  Q:-110.3  K:-135.6  A:-136.2  S:-139.8  N:-145.4  T:-163.4
+
+===== GCA_024404275.1  set=genome
+A. TAG sites with >=1 control aligned: 172
+   vs GCA_934796175.1: n=140 E:61 *:24 D:13 K:9 Q:7 A:4 G:3 L:3 Y:3 R:2 S:2 V:2
+   vs GCA_004556155.1: n=136 E:63 *:21 D:13 K:8 Q:7 A:5 G:3 L:3 R:2 S:2 V:2 P:2
+   vs GCA_963624325.1: n=143 E:71 *:27 D:10 K:6 A:6 L:4 Y:3 Q:3 M:2 S:2 T:2 V:2
+   per-site majority over controls: n=172 E:72 *:33 D:14 K:11 Q:7 A:6 L:5 mixed:3 Y:3 G:2 R:2 S:2
+B. calibration (pooled over 3 controls; % = share of control residues):
+   test GAG (E): n=22656 E:62.9% D:9.0% Q:5.8% A:5.5% K:2.5% R:2.1%
+   test GAA (E): n=23434 E:60.6% D:9.5% A:6.1% Q:5.6% K:2.9% S:2.5%
+   test CAG (Q): n=21123 Q:60.5% E:6.6% R:4.7% K:4.7% A:4.4% H:2.3%
+   test CAA (Q): n=1993 Q:49.5% E:7.5% A:7.1% R:6.2% K:5.0% D:4.5%
+   test GAT/GAC (D): n=41464 D:70.4% E:8.0% N:4.1% A:3.2% S:2.5% G:2.4%
+   test AAG/AAA (K): n=33314 K:57.6% R:12.2% Q:4.7% A:4.3% E:3.5% T:2.3%
+   test TAT/TAC (Y): n=24976 Y:75.7% F:7.8% H:2.2% L:2.0% A:1.3% W:1.1%
+   test TTG (L): n=5183 L:68.8% I:6.9% V:4.4% M:3.9% F:3.3% A:2.7%
+   test TCG (S): n=4218 S:57.3% A:12.8% T:7.2% G:3.2% Q:2.1% V:1.9%
+   test TGG (W): n=6772 W:76.9% Y:6.4% F:3.8% L:2.8% A:1.1% R:1.0%
+   test TAG          : n=419 E:46.5% *:17.2% D:8.6% K:5.5% Q:4.1% A:3.6% L:2.4% G:1.7%
+C. log-likelihood of 347 TAG-site control residues under each amino-acid profile (best first, delta vs best):
+   E:0.0  D:-393.0  Q:-407.6  K:-536.1  A:-616.2  S:-663.2  N:-672.8  T:-704.4
+
+===== GCA_045599485.1  set=census
+A. TAG sites with >=1 control aligned: 47
+   vs GCA_934796175.1: n=46 E:33 D:4 R:3 V:2 K:1 T:1 I:1 A:1
+   vs GCA_004556155.1: n=46 E:34 D:4 R:3 V:2 A:2 I:1
+   vs GCA_963624325.1: n=46 E:31 D:4 R:3 V:2 A:2 T:1 K:1 Q:1 G:1
+   per-site majority over controls: n=47 E:34 D:4 V:3 R:3 T:1 I:1 A:1
+B. calibration (pooled over 3 controls; % = share of control residues):
+   test GAG (E): n=6010 E:71.5% D:9.1% A:4.9% Q:4.0% K:1.4% T:1.4%
+   test GAA (E): n=6841 E:70.4% D:9.0% A:4.5% Q:4.4% S:1.9% K:1.5%
+   test CAG (Q): n=5321 Q:70.2% E:5.8% R:3.9% K:3.7% A:3.2% T:1.7%
+   test CAA (Q): n=730 Q:54.7% A:6.8% E:6.6% R:5.9% K:4.4% D:3.7%
+   test GAT/GAC (D): n=10879 D:76.8% E:8.5% N:2.9% A:2.5% G:1.6% S:1.5%
+   test AAG/AAA (K): n=9633 K:69.2% R:10.3% Q:3.6% A:2.8% E:2.8% T:1.9%
+   test TAT/TAC (Y): n=5556 Y:84.1% F:7.2% H:1.3% A:1.3% L:0.9% V:0.6%
+   test TTG (L): n=1409 L:80.4% I:4.5% M:4.0% V:2.8% A:1.7% F:1.2%
+   test TCG (S): n=748 S:60.0% A:15.2% T:4.5% D:2.5% G:2.4% L:2.3%
+   test TGG (W): n=1229 W:84.1% Y:5.8% L:2.4% F:2.2% R:1.1% A:1.1%
+   test TAG          : n=138 E:71.0% D:8.7% R:6.5% V:4.3% A:3.6% I:1.4% T:1.4% K:1.4%
+C. log-likelihood of 138 TAG-site control residues under each amino-acid profile (best first, delta vs best):
+   E:0.0  D:-196.3  Q:-242.8  K:-316.8  A:-318.8  S:-324.4  N:-343.7  T:-374.6
+
+===== GCA_045599485.1  set=genome
+A. TAG sites with >=1 control aligned: 317
+   vs GCA_934796175.1: n=289 E:146 D:25 Q:16 *:16 A:16 K:10 R:9 S:9 G:6 P:6 N:5 I:4
+   vs GCA_004556155.1: n=290 E:148 D:24 A:19 Q:18 *:16 R:9 K:9 S:7 G:6 P:6 N:5 M:3
+   vs GCA_963624325.1: n=271 E:144 D:28 A:13 Q:12 R:11 *:10 S:8 G:6 T:5 K:5 L:5 Y:4
+   per-site majority over controls: n=317 E:154 D:26 *:22 A:18 Q:17 R:10 S:10 K:10 G:7 mixed:6 P:6 N:5
+B. calibration (pooled over 3 controls; % = share of control residues):
+   test GAG (E): n=28742 E:61.1% D:9.7% A:6.2% Q:5.8% K:2.3% T:2.2%
+   test GAA (E): n=31823 E:61.1% D:9.2% A:6.2% Q:5.5% K:2.5% S:2.4%
+   test CAG (Q): n=26845 Q:59.7% E:6.9% R:4.9% A:4.5% K:4.3% D:2.4%
+   test CAA (Q): n=3711 Q:50.8% E:7.6% R:6.8% A:5.7% K:5.1% D:3.6%
+   test GAT/GAC (D): n=53551 D:69.5% E:8.5% N:4.0% A:3.4% S:2.5% G:2.4%
+   test AAG/AAA (K): n=41812 K:56.6% R:12.8% Q:5.0% A:4.0% E:3.5% T:2.5%
+   test TAT/TAC (Y): n=32922 Y:76.7% F:7.6% H:2.1% L:2.1% A:1.3% R:1.0%
+   test TTG (L): n=8122 L:70.4% I:6.0% M:4.8% V:4.6% A:2.5% F:2.4%
+   test TCG (S): n=5759 S:56.1% A:13.1% T:7.2% G:3.3% E:2.2% D:2.1%
+   test TGG (W): n=8624 W:78.5% Y:6.2% F:3.2% L:2.8% V:1.1% R:1.0%
+   test TAG          : n=850 E:51.5% D:9.1% A:5.6% Q:5.4% *:4.9% R:3.4% S:2.8% K:2.8%
+C. log-likelihood of 808 TAG-site control residues under each amino-acid profile (best first, delta vs best):
+   E:0.0  D:-839.8  Q:-877.6  K:-1251.4  A:-1338.0  S:-1360.5  N:-1401.6  T:-1524.8
+
+===== D. test-vs-test codon at aligned positions
+   GCA_024404275.1 TAG -> GCA_045599485.1 codon [census]: n=15, identical=6, changed: GAG:7 GAA:1 GAC:1
+   GCA_024404275.1 GAG -> GCA_045599485.1 codon [census]: n=1199, identical=890, changed: GAA:229 GAT:17 TAG:8 GAC:7 CAG:5 AAG:4 GCG:3 CGC:3
+   GCA_024404275.1 GAA -> GCA_045599485.1 codon [census]: n=1211, identical=846, changed: GAG:262 GAT:20 GAC:16 GCC:7 AAG:6 CAA:4 CAG:4 ACC:3
+   GCA_024404275.1 CAG -> GCA_045599485.1 codon [census]: n=958, identical=850, changed: CAA:30 AAG:10 AAA:6 GAG:5 CGT:5 ATG:5 GAA:5 GCC:4
+   GCA_024404275.1 CAA -> GCA_045599485.1 codon [census]: n=56, identical=31, changed: CAG:21 GAA:2 GAG:1 AGA:1
+   GCA_024404275.1 TAG -> GCA_045599485.1 codon [genome]: n=346, identical=186, changed: GAG:64 CAG:22 GAA:21 TAA:19 GAT:5 AAG:5 GAC:3 TAT:3
+   GCA_024404275.1 GAG -> GCA_045599485.1 codon [genome]: n=10645, identical=7451, changed: GAA:2086 CAG:245 GAT:157 AAG:108 GAC:105 GCG:78 TAG:62 GCC:31
+   GCA_024404275.1 GAA -> GCA_045599485.1 codon [genome]: n=12026, identical=8406, changed: GAG:2309 AAA:255 GAT:191 GAC:175 CAG:83 GCG:55 GCA:51 AAG:45
+   GCA_024404275.1 CAG -> GCA_045599485.1 codon [genome]: n=12987, identical=11175, changed: CAA:541 AAG:215 GAG:203 CGG:105 CAT:67 GAA:66 CCG:56 CTG:55
+   GCA_024404275.1 CAA -> GCA_045599485.1 codon [genome]: n=1823, identical=868, changed: CAG:617 AAA:37 CGA:29 GAA:26 CAT:26 AAG:22 CGG:22 GAG:18
+   GCA_045599485.1 TAG -> GCA_024404275.1 codon [census]: n=22, identical=5, changed: GAG:7 GAA:3 GAC:2 AAA:1 CAG:1 CTG:1 GCC:1 GAT:1
+   GCA_045599485.1 GAG -> GCA_024404275.1 codon [census]: n=1378, identical=986, changed: GAA:290 GAC:19 GAT:17 AAG:7 TAG:5 AAC:5 CAG:4 CGT:4
+   GCA_045599485.1 GAA -> GCA_024404275.1 codon [census]: n=1329, identical=921, changed: GAG:261 GAT:22 GAC:17 AAG:12 GCC:12 AAA:7 CGT:6 CAG:6
+   GCA_045599485.1 CAG -> GCA_024404275.1 codon [census]: n=1147, identical=988, changed: CAA:22 AAG:17 CTG:10 CGG:9 CGC:9 GAG:8 GAA:7 GCC:7
+   GCA_045599485.1 CAA -> GCA_024404275.1 codon [census]: n=122, identical=36, changed: CAG:36 GAA:10 CGC:5 CGT:4 CTG:3 GAG:3 AAA:3 TCC:2
+   GCA_045599485.1 TAG -> GCA_024404275.1 codon [genome]: n=377, identical=183, changed: GAG:70 CAG:29 GAA:25 TAA:11 TAT:7 GAC:7 GAT:4 TAC:4
+   GCA_045599485.1 GAG -> GCA_024404275.1 codon [genome]: n=11391, identical=7660, changed: GAA:2411 GAT:221 CAG:214 GAC:137 AAG:96 GCG:75 TAG:67 GCC:42
+   GCA_045599485.1 GAA -> GCA_024404275.1 codon [genome]: n=12096, identical=8543, changed: GAG:2211 GAT:203 AAA:182 GAC:152 CAG:85 GCC:77 AAG:50 GCG:47
+   GCA_045599485.1 CAG -> GCA_024404275.1 codon [genome]: n=13214, identical=11036, changed: CAA:615 AAG:254 GAG:246 GAA:100 CGG:85 CAT:77 CTG:68 CAC:58
+   GCA_045599485.1 CAA -> GCA_024404275.1 codon [genome]: n=1840, identical=906, changed: CAG:529 AAA:46 GAA:45 AAG:35 CAT:30 CGA:26 CGC:20 TAA:20

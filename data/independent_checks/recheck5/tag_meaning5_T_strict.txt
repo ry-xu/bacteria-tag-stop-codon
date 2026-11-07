@@ -1,0 +1,44 @@
+##### GCA_056209055.1  controls=GCA_934647165.1,GCA_030529995.1,GCA_963656345.1  outgroups=GCA_030526225.1,GCA_045599485.1,GCF_000005845.2,GCF_000009045.1  filter=strict
+1. strict-aligned T sites (any control): 405093, TAG among them: 60; aligned in >=2 controls: 321778 (TAG 30); unanimous: 271941 (TAG 28)
+   T TGG(W)   sites=  3041 unanimous=  2797 (92%) | W:85.9% Y:3.8% F:2.5% L:2.1% A:0.8% V:0.7%
+   T CAG      sites= 10977 unanimous=  8627 (79%) | Q:68.4% E:6.7% K:4.7% R:3.6% A:3.0% D:1.8%
+   T CAA      sites=   817 unanimous=   605 (74%) | Q:62.5% E:6.8% R:6.1% K:5.1% A:3.8% L:2.5%
+   T GAG      sites= 13774 unanimous= 11154 (81%) | E:78.5% D:6.2% Q:3.0% A:2.6% K:1.6% T:1.2%
+   T GAA      sites=  5483 unanimous=  4440 (81%) | E:77.3% D:6.7% Q:3.3% A:2.9% K:2.2% T:1.1%
+   T TAY(Y)   sites= 10773 unanimous=  9737 (90%) | Y:84.0% F:6.2% L:1.3% H:1.3% W:1.1% A:0.7%
+   T TTR(L)   sites=  1194 unanimous=  1009 (85%) | L:80.3% I:3.9% M:2.9% F:2.9% V:2.7% A:1.4%
+   T AAR(K)   sites= 13933 unanimous= 11223 (81%) | K:74.8% R:7.6% Q:2.5% E:2.4% A:1.9% T:1.7%
+   T TCG(S)   sites=  1464 unanimous=  1177 (80%) | S:66.9% A:11.9% T:7.2% D:2.0% G:1.7% P:1.5%
+   T TGY(C)   sites=  5525 unanimous=  4855 (88%) | C:74.9% A:6.2% V:3.2% S:3.0% T:2.0% L:1.8%
+   T TAG      sites=    30 unanimous=    28 (93%) | W:42.9% *:14.3% Y:14.3% F:14.3% K:3.6% V:3.6%
+   mutational-null neighbour weights (kappa=3.0): CAG(Q):0.39 GAG(E):0.17 AAG(K):0.15 TGG(W):0.12 TAT(Y):0.08 TAC(Y):0.07 TCG(S):0.02 TTG(L):0.01
+   TAG unanimous residues (n=24): W:12 Y:4 F:4 K:1 V:1 S:1 Q:1
+2. LL of TAG-site residues, delta vs best: W:0.0  mutnull:-11.7  Y:-35.5  bg:-41.0  F:-43.5  C:-75.9 | W-Q=94.6 W-E=123.1 W-bg=41.0 W-mutnull=11.7
+   bootstrap 95% CI W-Q: [59.3, 127.7]
+   bootstrap 95% CI W-E: [85.3, 160.0]
+   bootstrap 95% CI W-bg: [12.6, 68.9]
+   bootstrap 95% CI W-mutnull: [-7.7, 30.6]
+   bootstrap 95% CI W-best_other: [-8.0, 30.6]
+   bootstrap best model: W:88.3% mutnull:11.1% F:0.5% Y:0.1%
+   leave-one-out W-best_other range: [9.6 (dropping W), 16.0 (dropping Q)]
+3. mixture ML weights: W=0.80 Q=0.04 E=0.00 bg=0.16; 95% profile interval for W weight [0.54, 0.96]
+4. route check: unanimous-W columns with T=TGG: 2403, with T=TAG: 12; unanimous-Q columns with T=CAG: 5903, CAA: 378, T=TAG: 1
+   TAG at W+Q columns = 13; expected share at Q columns if TAG were used like CAG (Gln) as it is like TGG (Trp): 0.71; observed 1/13; conditional binomial P(<= obs) = 3.3e-06 (assumes equal relative use, see text)
+5. W-column conservation in outgroups GCA_030526225.1,GCA_045599485.1,GCF_000005845.2,GCF_000009045.1 (residue at the same T codon; loose: any aligned column)
+   T TAG                      W-columns=   12 with outgroup data=   12  outgroup residues W=60.0%  all-outgroups-W=41.7% | W:15 Y:2 F:2 G:2 L:1
+   T TGG                      W-columns= 2403 with outgroup data= 2217  outgroup residues W=68.2%  all-outgroups-W=51.4% | W:3776 Y:334 F:270 L:228 A:98
+   T other(T substituted W)   W-columns=  392 with outgroup data=  352  outgroup residues W=22.1%  all-outgroups-W=11.1% | W:189 Y:116 F:96 L:95 V:44
+   TAG sites at control-unanimous W: site, control codons, outgroup residues
+     JBAEHL010000036.1:9098:1  ctrl TGG,TGG,TGG  outg 030526225=W 045599485=. 000005845=. 000009045=F
+     JBAEHL010000066.1:2302:-1  ctrl TGG,TGG  outg 030526225=. 045599485=Y 000005845=. 000009045=.
+     JBAEHL010000086.1:1189:-1  ctrl TGG,TGG  outg 030526225=W 045599485=. 000005845=. 000009045=W
+     JBAEHL010000105.1:9176:1  ctrl TGG,TGG,TGG  outg 030526225=W 045599485=W 000005845=. 000009045=L
+     JBAEHL010000111.1:416:1  ctrl TGG,TGG,TGG  outg 030526225=W 045599485=W 000005845=. 000009045=.
+     JBAEHL010000119.1:33177:-1  ctrl TGG,TGG,TGG  outg 030526225=. 045599485=. 000005845=. 000009045=D
+     JBAEHL010000124.1:73129:1  ctrl TGG,TGG,TGG  outg 030526225=W 045599485=W 000005845=S 000009045=F
+     JBAEHL010000130.1:19640:-1  ctrl TGG,TGG,TGG  outg 030526225=. 045599485=G 000005845=G 000009045=Y
+     JBAEHL010000130.1:20405:-1  ctrl TGG,TGG,TGG  outg 030526225=. 045599485=W 000005845=. 000009045=.
+     JBAEHL010000147.1:3131:1  ctrl TGG,TGG,TGG  outg 030526225=W 045599485=W 000005845=. 000009045=R
+     JBAEHL010000192.1:22912:1  ctrl TGG,TGG  outg 030526225=W 045599485=W 000005845=. 000009045=.
+     JBAEHL010000202.1:8055:-1  ctrl TGG,TGG,TGG  outg 030526225=. 045599485=. 000005845=. 000009045=W
+   all TAG sites with unanimous residue: 0014.1:13626=Y 0014.1:14918=Y 0036.1:35530=F 0036.1:9098=W 0066.1:2302=W 0082.1:42131=Q 0084.1:20111=K 0086.1:1189=W 0105.1:17075=V 0105.1:9176=W 0109.1:3180=F 0111.1:416=W 0115.1:7141=Y 0119.1:33177=W 0123.1:28367=F 0124.1:73129=W 0124.1:75798=Y 0130.1:19640=W 0130.1:20405=W 0131.1:38173=S 0147.1:3131=W 0160.1:13633=F 0192.1:22912=W 0202.1:8055=W

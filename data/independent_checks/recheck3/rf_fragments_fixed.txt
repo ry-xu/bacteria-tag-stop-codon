@@ -1,0 +1,10 @@
+== GCA_937907055.1: 57 loci with any RF1/RF2 query hit (e<=10)
+  CALCTW010000081.1:3-569 RF2>=RF1 | best RF1 query: GCA_017577285.1 q26-167 id=29% e=1.9e-09 bits=56 stops=0 | best RF2 query: GCA_017577285.1 q12-195 id=83% e=4.0e-93 bits=302 stops=0
+  CALCTW010000091.1:7755-8363 RF2>=RF1 | best RF1 query: GCA_017577285.1 q152-340 id=36% e=2.7e-32 bits=125 stops=0 | best RF2 query: GCA_017577285.1 q179-381 id=98% e=1.1e-132 bits=416 stops=0
+  CALCTW010000099.1:12292-12405 RF1>RF2 | best RF1 query: GCA_045617125.1 q209-246 id=42% e=2.0e-03 bits=37 stops=0 | best RF2 query: -
+== GCA_045628485.1: 63 loci with any RF1/RF2 query hit (e<=10)
+  JAZQPK010000109.1:4254-4349 RF2>=RF1 | best RF1 query: GCA_030529995.1 q334-354 id=52% e=1.3e+00 bits=28 stops=0 | best RF2 query: GCA_017577285.1 q350-381 id=94% e=7.2e-13 bits=67 stops=0
+  JAZQPK010000179.1:1-987 RF2>=RF1 | best RF1 query: GCA_030529995.1 q52-302 id=36% e=7.3e-40 bits=147 stops=0 | best RF2 query: GCA_017577285.1 q12-335 id=88% e=0.0e+00 bits=577 stops=0
+== GCA_030526225.1: 44 loci with any RF1/RF2 query hit (e<=10)
+== GCA_934647165.1: 39 loci with any RF1/RF2 query hit (e<=10)
+  CAKUFA010000031.1:16240-17364 RF2>=RF1 | best RF1 query: GCA_030529995.1 q3-364 id=34% e=1.2e-56 bits=196 stops=0 | best RF2 query: GCA_030529995.1 q12-377 id=93% e=0.0e+00 bits=714 stops=0

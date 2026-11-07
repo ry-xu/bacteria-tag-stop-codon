@@ -1,0 +1,25 @@
+file	target	method	controls	notes
+ortholog_profiles_Victivallales_949290385.txt	GCA_949290385.1	src/ortholog_profiles.py, MINID 60	7 RF1-keeping UBA1829 genomes (data/tag_sites/relatives.tsv)	regenerated for this repo with the original command; numbers match RESULT.md
+ortholog_profiles_SFMI01_024404275.txt	GCA_024404275.1	src/ortholog_profiles.py, MINID 60	6 RF1-keeping SFMI01 genomes	regenerated; matches RESULT.md
+ortholog_profiles_SFMI01_045599485.txt	GCA_045599485.1	src/ortholog_profiles.py, MINID 60	6 RF1-keeping SFMI01 genomes	regenerated; matches RESULT.md
+ortholog_profiles_ZC3RG03_937907055.txt	GCA_937907055.1	src/ortholog_profiles.py, MINID 60	3 RF1-keeping ZC3RG03 genomes	original output
+ortholog_profiles_ZC3RG03_045628485.txt	GCA_045628485.1	src/ortholog_profiles.py, MINID 60	3 RF1-keeping ZC3RG03 genomes	original output
+ortholog_profiles_JAUNDF01.txt	GCA_030526225.1	src/ortholog_profiles.py, MINID 60	6 nearest Aristaeellaceae (CAKUFA01 etc.)	original output; rerun for this repo is byte-identical
+ortholog_codons_JAUNDF01.txt	GCA_030526225.1	src/ortholog_codons.py (relatives' codon at TAG sites)	as above	original output; rerun identical
+ortholog_codons_ZC3RG03.txt	GCA_045628485.1	src/ortholog_codons.py	3 ZC3RG03	original output
+ortholog_profiles_GCA_056232285.1_vsUBA1267.txt	GCA_056232285.1	src/ortholog_profiles.py, MINID 55	4 UBA1267 genomes	original output
+ortholog_profiles_GCA_056261325.1_vsUBA1267.txt	GCA_056261325.1	src/ortholog_profiles.py, MINID 55	4 UBA1267 genomes	original output
+ortholog_profiles_GCA_056232285.1_vsLachnoRefs.txt	GCA_056232285.1	src/ortholog_profiles.py	3 Lachnospiraceae reference genomes (GCF_002222595.2, GCF_000146185.1, GCF_900107245.1)	original output (exploratory, before UBA1267 was identified as nearest)
+strata_GCA_056232285.1.txt	GCA_056232285.1	src/codon_strata.py (Swiss-Prot conservation strata)	Swiss-Prot	original output
+strata_GCA_056261325.1.txt	GCA_056261325.1	src/codon_strata.py	Swiss-Prot	original output
+strata_GCA_030526225.1.TAG.txt	GCA_030526225.1	src/codon_strata.py	Swiss-Prot	original output
+strata_GCA_937907055.1.TAG.txt	GCA_937907055.1	src/codon_strata.py	Swiss-Prot	original output
+strata_GCA_045628485.1.TAG.txt	GCA_045628485.1	src/codon_strata.py	Swiss-Prot	original output
+ortholog_profiles_GCA_056209055.1.txt	GCA_056209055.1	src/ortholog_profiles.py, MINID 55	3 CAKUFA01 genomes	first pass (23 sites)
+ortholog_profiles_GCA_056209055.1_minid45.txt	GCA_056209055.1	src/ortholog_profiles.py, MINID 45	3 CAKUFA01 genomes	first pass (48 sites)
+strata_GCA_056209055.1.txt	GCA_056209055.1	src/codon_strata.py	Swiss-Prot	too few sites to decide
+profiles_vs_GCA_056207115_minid55.txt	GCA_056209055.1	src/ortholog_profiles.py, MINID 55	closest relative GCA_056207115.1 (AAI ~69%)	52 sites; main lineage-6 result
+profiles_vs_GCA_056207115_minid45.txt	GCA_056209055.1	src/ortholog_profiles.py, MINID 45	GCA_056207115.1	76 sites
+profiles_QTP_TA20190011_bin.237_vs_GCA_056207115_minid55.txt	QTP_TA20190011_bin.237	src/ortholog_profiles.py, MINID 55	GCA_056207115.1	same species as GCA_056209055.1, so largely the same sites
+profiles_QTP_TA20190013_bin.296_vs_GCA_056207115_minid55.txt	QTP_TA20190013_bin.296	src/ortholog_profiles.py, MINID 55	GCA_056207115.1	as above
+ortholog_codons_GCA_056209055.1_vs_GCA_056207115.txt	GCA_056209055.1	src/ortholog_codons.py (identity cut fixed at 50%)	GCA_056207115.1	original output (was saved as _minid55 and _minid70, but ortholog_codons.py ignores MINID; both files were identical)

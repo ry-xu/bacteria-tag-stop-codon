@@ -1,0 +1,5 @@
+QTP_TA20190011_bin.237: 171 in-frame TAG in 145 genes; 86 site x relative pairs
+sites with an orthologous codon: 86
+  relative's amino acid: [('W', 23), ('A', 12), ('E', 7), ('I', 7), ('L', 5), ('Y', 4), ('V', 4), ('F', 4), ('R', 3), ('K', 3), ('C', 2), ('S', 2), ('D', 2), ('G', 2), ('Q', 2), ('M', 2), ('T', 2)]
+  relative's codon     : [('TGG', 23), ('ATC', 6), ('GCC', 6), ('CTG', 5), ('GAG', 5), ('TTT', 4), ('TAC', 3), ('GCT', 3), ('CGC', 3), ('GCG', 3), ('GAA', 2), ('GTG', 2), ('TGC', 2), ('GAC', 2), ('GGC', 2), ('CAG', 2), ('AAG', 2), ('ATG', 2), ('GTC', 1), ('GTA', 1)]
+  sites where >=3 relatives all have the same amino acid: []

@@ -1,0 +1,5 @@
+GCA_056232285.1: 1022 in-frame TAG in 628 genes; 2174 site x relative pairs
+sites with an orthologous codon: 960
+  relative's amino acid: [('Q', 165), ('A', 106), ('E', 84), ('L', 65), ('G', 64), ('V', 61), ('S', 55), ('K', 49), ('I', 48), ('T', 43), ('R', 41), ('D', 37), ('M', 28), ('P', 25), ('F', 24), ('N', 20), ('H', 15), ('Y', 14), ('C', 9), ('W', 7)]
+  relative's codon     : [('CAG', 164), ('GCG', 47), ('GAA', 44), ('ATC', 40), ('GAG', 40), ('AAG', 34), ('GGC', 34), ('GTG', 30), ('ATG', 28), ('CTG', 26), ('TCC', 26), ('GCC', 22), ('GAC', 20), ('GCA', 20), ('CGG', 19), ('ACC', 19), ('GCT', 17), ('CTC', 17), ('GAT', 17), ('CTT', 17)]
+  sites where >=3 relatives all have the same amino acid: [('Q', 39), ('E', 5), ('L', 4), ('I', 4), ('A', 3), ('M', 3), ('T', 3), ('K', 3), ('Y', 2), ('R', 2), ('N', 2), ('V', 1), ('S', 1), ('D', 1), ('W', 1), ('P', 1), ('G', 1)]

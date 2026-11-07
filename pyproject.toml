@@ -1,0 +1,16 @@
+[project]
+name = "bacterial-tag-recoding"
+version = "0.1.0"
+description = "Analysis code and data: bacteria that read the TAG stop codon as an amino acid genome-wide"
+requires-python = ">=3.11"
+dependencies = [
+    "pyrodigal",
+    "pyaragorn",
+    "requests",
+    "matplotlib",
+    "biopython",
+    "pillow",
+]
+
+[tool.uv]
+package = false

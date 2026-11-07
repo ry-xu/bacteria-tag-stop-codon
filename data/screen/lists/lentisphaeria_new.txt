@@ -1,0 +1,687 @@
+GCA_990111361.1	Victivallales bacterium	2026-10-31	None	SAMEA124217015
+GCA_990112143.1	Victivallales bacterium	2026-10-31	None	SAMEA124217590
+GCA_990114310.1	Victivallales bacterium	2026-10-31	None	SAMEA124657505
+GCA_990113068.1	Victivallales bacterium	2026-10-31	None	SAMEA124217641
+GCA_990114197.1	Victivallales bacterium	2026-10-31	None	SAMEA124657494
+GCA_990113157.1	Victivallales bacterium	2026-10-31	None	SAMEA124657152
+GCA_965089575.1	Victivallales bacterium	2026-01-29	None	SAMEA117432101
+GCA_964932205.1	Victivallales bacterium	2026-01-31	None	SAMEA117436500
+GCA_990110313.1	Victivallales bacterium	2026-10-31	None	SAMEA124656012
+GCA_964681605.1	Victivallales bacterium	2026-01-29	None	SAMEA117433898
+GCA_990116952.1	Victivallaceae bacterium	2026-10-31	None	SAMEA124218238
+GCA_990117122.1	Victivallaceae bacterium	2026-10-31	None	SAMEA124658090
+GCA_965090485.1	Victivallales bacterium	2026-01-26	None	SAMEA117435195
+GCA_964960655.1	Victivallales bacterium	2026-01-27	None	SAMEA117433487
+GCA_964971965.1	Victivallales bacterium	2026-01-28	None	SAMEA117435525
+GCA_964932895.1	Victivallales bacterium	2026-01-28	None	SAMEA117431957
+GCA_964904045.1	Victivallaceae bacterium	2026-01-29	None	SAMEA117436824
+GCA_990110687.1	Victivallales bacterium	2026-10-31	None	SAMEA124216583
+GCA_990111930.1	Victivallales bacterium	2026-10-31	None	SAMEA124217905
+GCA_990112773.1	Victivallales bacterium	2026-10-31	None	SAMEA124217910
+GCA_990114353.1	Victivallales bacterium	2026-10-31	None	SAMEA124657763
+GCA_990114984.1	Victivallales bacterium	2026-10-31	None	SAMEA124218239
+GCA_990112820.1	Victivallales bacterium	2026-10-31	None	SAMEA124217968
+GCA_990115366.1	Victivallales bacterium	2026-10-31	None	SAMEA124657821
+GCA_964812805.1	Lentisphaeria bacterium UBA1407	2026-01-29	None	SAMEA117434598
+GCA_964904885.1	Lentisphaeria bacterium UBA1407	2026-01-29	None	SAMEA117433263
+GCA_964963405.1	Lentisphaeria bacterium UBA1407	2026-01-29	None	SAMEA117433264
+GCA_964967745.1	Lentisphaeria bacterium UBA1407	2026-01-29	None	SAMEA117434447
+GCA_990111153.1	uncultured Victivallis sp.	2026-10-31	None	SAMEA124217002
+GCA_990112917.1	uncultured Victivallis sp.	2026-10-31	None	SAMEA124656855
+GCA_964971625.1	Lentisphaeria bacterium UBA1407	2026-02-01	None	SAMEA117433038
+GCA_990110404.1	uncultured Victivallis sp.	2026-10-31	None	SAMEA124216315
+GCA_965089295.1	Lentisphaeraceae bacterium	2026-01-29	None	SAMEA117428715
+GCA_964915555.1	Lentisphaeraceae bacterium	2026-01-29	None	SAMEA117436725
+GCA_990113288.1	uncultured Victivallis sp.	2026-10-31	None	SAMEA124217919
+GCA_990114478.1	uncultured Victivallis sp.	2026-10-31	None	SAMEA124657771
+GCA_990109846.1	Lentisphaeria bacterium	2026-10-31	None	SAMEA124216457
+GCA_990113950.1	Lentisphaeria bacterium	2026-10-31	None	SAMEA124656310
+GCA_990113379.1	Lentisphaeria bacterium	2026-11-01	None	SAMEA124656460
+GCA_981453155.1	Victivallis vadensis	2026-03-02	96.55	SAMEA121781653
+GCA_982413145.1	Victivallis vadensis	2026-04-14	97.41	SAMEA122089088
+GCA_977870155.1	Victivallis vadensis	2026-01-31	94.83	SAMEA118412141
+GCA_986147635.1	Victivallis vadensis	2026-07-04	98.28	SAMEA122921250
+GCA_982250805.1	Victivallis vadensis	2026-03-14	94.48	SAMEA121942877
+GCA_048506075.1	Victivallis vadensis	2025-03-08	88.64	SAMN46329602
+GCA_020719505.1	Victivallis vadensis	2021-11-02	None	SAMN22209571
+GCA_020718505.1	Victivallis vadensis	2021-11-02	None	SAMN22209614
+GCA_982243295.1	Victivallis vadensis	2026-03-14	95.92	SAMEA121942752
+GCA_981813915.1	Victivallis vadensis	2026-03-06	83.46	SAMEA121861128
+GCA_981455015.1	Victivallis vadensis	2026-03-02	None	SAMEA121781502
+GCA_959596675.1	Victivallis vadensis	2023-07-23	None	SAMEA114095843
+GCA_051892795.1	Victivallis vadensis	2025-08-08	None	SAMN43789869
+GCA_020719615.1	Victivallis vadensis	2021-11-02	None	SAMN22209565
+GCA_981426935.1	Victivallis vadensis	2026-03-02	None	SAMEA121781635
+GCA_036736265.1	Victivallis vadensis	2024-02-21	None	SAMN28746527
+GCA_062032909.1	Victivallales bacterium	2026-10-12	None	SAMN62258313
+GCA_062052257.1	Victivallales bacterium	2026-10-20	None	SAMN62259709
+GCA_062051258.1	Victivallales bacterium	2026-10-20	None	SAMN62258801
+GCA_062034365.1	Victivallales bacterium	2026-10-12	None	SAMN62258254
+GCA_965316175.1	Victivallales bacterium	2025-07-02	None	SAMEA118412117
+GCA_062035307.1	Victivallales bacterium	2026-10-12	None	SAMN62257236
+GCA_062035219.1	Victivallales bacterium	2026-10-12	None	SAMN62257327
+GCA_965343895.1	Victivallales bacterium	2025-07-05	None	SAMEA118412101
+GCA_056214295.1	Victivallales bacterium	2026-03-22	None	SAMN38005673
+GCA_056977295.1	Victivallales bacterium	2026-04-28	None	SAMN50512213
+GCA_062044828.1	Victivallales bacterium	2026-10-16	None	SAMN51190955
+GCA_965348105.1	Victivallaceae bacterium	2025-06-30	None	SAMEA118412126
+GCA_062032631.1	Victivallales bacterium	2026-10-12	None	SAMN62258583
+GCA_977870205.1	Victivallales bacterium	2026-01-29	None	SAMEA118412116
+GCA_062000584.1	Victivallaceae bacterium	2026-09-25	None	SAMN52941330
+GCA_059992935.1	Victivallales bacterium	2026-08-10	None	SAMN61871106
+GCA_062051217.1	Victivallales bacterium	2026-10-20	None	SAMN62258842
+GCA_052831285.1	Victivallaceae bacterium	2025-09-24	None	SAMN37897317
+GCA_965348535.1	Victivallales bacterium	2025-06-29	None	SAMEA118412099
+GCA_062044292.1	Victivallales bacterium	2026-10-16	None	SAMN51186986
+GCA_988138355.1	Victivallales bacterium	2026-09-04	None	SAMEA123323633
+GCA_056566125.1	Victivallaceae bacterium	2026-04-03	None	SAMN37894879
+GCA_062055666.1	Victivallales bacterium	2026-10-23	None	SAMN51190578
+GCA_965342905.1	Victivallales bacterium	2025-06-30	None	SAMEA118412093
+GCA_965338365.1	Victivallales bacterium	2025-06-30	None	SAMEA118412091
+GCA_965317145.1	Victivallales bacterium	2025-07-02	None	SAMEA118412110
+GCA_989977715.1	Victivallales bacterium	2026-10-21	None	SAMEA124215593
+GCA_052849455.1	Victivallaceae bacterium	2025-09-25	None	SAMN38009249
+GCA_965345845.1	Victivallales bacterium	2025-06-30	None	SAMEA118412108
+GCA_965316975.1	Victivallaceae bacterium	2025-07-01	None	SAMEA118412133
+GCA_056975695.1	Victivallales bacterium	2026-04-28	None	SAMN50512293
+GCA_054294525.1	Victivallales bacterium	2026-01-02	None	SAMN37896597
+GCA_056556025.1	Victivallaceae bacterium	2026-04-03	None	SAMN37894830
+GCA_054290585.1	Victivallaceae bacterium	2026-01-02	None	SAMN37895594
+GCA_061459235.1	Victivallales bacterium	2026-09-20	None	SAMN61525974
+GCA_965350905.1	Victivallales bacterium	2025-07-06	None	SAMEA118412103
+GCA_965358155.1	Victivallales bacterium	2025-06-29	None	SAMEA118412105
+GCA_054279075.1	Victivallaceae bacterium	2026-01-02	None	SAMN37896000
+GCA_980354835.1	Victivallaceae bacterium	2026-02-21	None	SAMEA121580759
+GCA_059463655.1	Victivallaceae bacterium	2026-07-16	None	SAMN38002936
+GCA_965333565.1	Victivallales bacterium	2025-06-29	None	SAMEA118412098
+GCA_054276355.1	Victivallales bacterium	2026-01-02	None	SAMN37896135
+GCA_965349005.1	Victivallaceae bacterium	2025-07-05	None	SAMEA118412118
+GCA_965336475.1	Victivallales bacterium	2025-07-01	None	SAMEA118412094
+GCA_052832565.1	Victivallaceae bacterium	2025-09-24	None	SAMN37897252
+GCA_056274725.1	Victivallaceae bacterium	2026-03-24	None	SAMN38008552
+GCA_056228155.1	Victivallaceae bacterium	2026-03-22	None	SAMN38005725
+GCA_965336905.1	Victivallaceae bacterium	2025-07-01	None	SAMEA118412125
+GCA_965085625.1	Victivallales bacterium	2026-02-01	None	SAMEA117441247
+GCA_062032778.1	Victivallales bacterium	2026-10-12	None	SAMN62258439
+GCA_965357145.1	Victivallales bacterium	2025-06-30	None	SAMEA118412084
+GCA_059484595.1	Victivallaceae bacterium	2026-07-16	None	SAMN38009028
+GCA_060523835.1	Victivallales bacterium	2026-08-27	None	SAMN60538704
+GCA_062000738.1	Victivallaceae bacterium	2026-09-25	None	SAMN52941217
+GCA_054267235.1	Victivallaceae bacterium	2026-01-02	None	SAMN37896914
+GCA_965357185.1	Victivallales bacterium	2025-06-30	None	SAMEA118412097
+GCA_977863485.1	Victivallaceae bacterium	2026-01-23	None	SAMEA118412127
+GCA_059463015.1	Victivallaceae bacterium	2026-07-16	None	SAMN38002967
+GCA_965334945.1	Victivallales bacterium	2025-06-30	None	SAMEA118412083
+GCA_965347915.1	Victivallales bacterium	2025-07-01	None	SAMEA118412080
+GCA_056195075.1	Victivallaceae bacterium	2026-03-22	None	SAMN38003411
+GCA_059484015.1	Victivallaceae bacterium	2026-07-16	None	SAMN38009059
+GCA_057609855.1	Victivallales bacterium	2026-05-18	None	SAMN50509769
+GCA_061443795.1	Victivallales bacterium	2026-09-20	None	SAMN61526685
+GCA_965351795.1	Victivallales bacterium	2025-06-30	None	SAMEA118412085
+GCA_056225555.1	Victivallaceae bacterium	2026-03-22	None	SAMN38005802
+GCA_059463475.1	Victivallaceae bacterium	2026-07-16	None	SAMN38002945
+GCA_062047442.1	Victivallales bacterium	2026-10-19	None	SAMN48778564
+GCA_965313435.1	Victivallaceae bacterium	2025-06-30	None	SAMEA118412135
+GCA_965357905.1	Victivallales bacterium	2025-06-30	None	SAMEA118412086
+GCA_965348145.1	Victivallales bacterium	2025-07-02	None	SAMEA118412113
+GCA_965332975.1	Victivallales bacterium	2025-06-30	None	SAMEA118412088
+GCA_059484655.1	Victivallales bacterium	2026-07-16	None	SAMN38009025
+GCA_965339725.1	Victivallales bacterium	2025-06-29	None	SAMEA118412100
+GCA_056197035.1	Victivallaceae bacterium	2026-03-22	None	SAMN38003313
+GCA_056555985.1	Victivallaceae bacterium	2026-04-03	None	SAMN37894829
+GCA_054270175.1	Victivallaceae bacterium	2026-01-02	None	SAMN37896800
+GCA_056301535.1	Victivallaceae bacterium	2026-03-24	None	SAMN38008071
+GCA_062061118.1	Victivallales bacterium	2026-10-26	None	SAMN51190130
+GCA_965339665.1	Victivallales bacterium	2025-06-30	None	SAMEA118412092
+GCA_965349295.1	Victivallaceae bacterium	2025-06-28	None	SAMEA118412132
+GCA_965344555.1	Victivallales bacterium	2025-06-29	None	SAMEA118412107
+GCA_977869585.1	Victivallaceae bacterium	2026-01-23	None	SAMEA118412121
+GCA_059462575.1	Victivallaceae bacterium	2026-07-16	None	SAMN38002988
+GCA_056199395.1	Victivallaceae bacterium	2026-03-22	None	SAMN38004689
+GCA_982827925.1	Victivallales bacterium	2026-06-14	None	SAMEA122250825
+GCA_977869715.1	Victivallaceae bacterium	2026-01-29	None	SAMEA118412120
+GCA_054265335.1	Victivallaceae bacterium	2026-01-02	None	SAMN37897007
+GCA_062035429.1	Victivallales bacterium	2026-10-12	None	SAMN62257116
+GCA_052832105.1	Victivallaceae bacterium	2025-09-24	None	SAMN37897276
+GCA_056272065.1	Victivallaceae bacterium	2026-03-24	None	SAMN38008686
+GCA_965354315.1	Victivallales bacterium	2025-07-06	None	SAMEA118412104
+GCA_965336765.1	Victivallales bacterium	2025-07-05	None	SAMEA118412102
+GCA_052834065.1	Victivallales bacterium	2025-09-24	None	SAMN37897177
+GCA_052830945.1	Victivallaceae bacterium	2025-09-24	None	SAMN37897334
+GCA_056186715.1	Victivallaceae bacterium	2026-03-22	None	SAMN38006758
+GCA_059485235.1	Victivallales bacterium	2026-07-16	None	SAMN38008996
+GCA_056212335.1	Victivallales bacterium	2026-03-22	None	SAMN38002044
+GCA_056288995.1	Victivallaceae bacterium	2026-03-24	None	SAMN38006108
+GCA_054002075.1	Victivallaceae bacterium	2025-12-16	None	SAMN49582545
+GCA_060631425.1	Victivallales bacterium	2026-08-31	None	SAMN60538705
+GCA_965333545.1	Victivallales bacterium	2025-06-29	None	SAMEA118412106
+GCA_056273165.1	Victivallaceae bacterium	2026-03-24	None	SAMN38008631
+GCA_059488255.1	Victivallaceae bacterium	2026-07-16	None	SAMN38008845
+GCA_965351115.1	Victivallales bacterium	2025-06-30	None	SAMEA118412096
+GCA_059485675.1	Victivallaceae bacterium	2026-07-16	None	SAMN38008974
+GCA_965017415.1	Victivallaceae bacterium	2026-01-30	None	SAMEA117437206
+GCA_017964325.1	Victivallales bacterium	2021-04-14	None	SAMN16350576
+GCA_056188095.1	Victivallales bacterium	2026-03-22	None	SAMN38003194
+GCA_048468175.1	Victivallales bacterium	2025-03-07	None	SAMN46334421
+GCA_056284425.1	Victivallaceae bacterium	2026-03-24	None	SAMN38006674
+GCA_054267135.1	Victivallales bacterium	2026-01-02	None	SAMN37896919
+GCA_056196315.1	Victivallaceae bacterium	2026-03-22	None	SAMN38003350
+GCA_052845835.1	Victivallaceae bacterium	2025-09-25	None	SAMN38009368
+GCA_056274445.1	Victivallaceae bacterium	2026-03-24	None	SAMN38008568
+GCA_056272285.1	Victivallaceae bacterium	2026-03-24	None	SAMN38008675
+GCA_059466655.1	Victivallaceae bacterium	2026-07-16	None	SAMN38002787
+GCA_061458885.1	Victivallaceae bacterium	2026-09-20	None	SAMN61525982
+GCA_056252025.1	Victivallaceae bacterium	2026-03-23	None	SAMN38007505
+GCA_054265875.1	Victivallaceae bacterium	2026-01-02	None	SAMN37896978
+GCA_056567285.1	Victivallaceae bacterium	2026-04-03	None	SAMN37895395
+GCA_056286125.1	Victivallaceae bacterium	2026-03-24	None	SAMN38006254
+GCA_977863355.1	Victivallaceae bacterium	2026-01-23	None	SAMEA118412129
+GCA_965350895.1	Victivallales bacterium	2025-06-30	None	SAMEA118412095
+GCA_965347175.1	Victivallales bacterium	2025-07-05	None	SAMEA118412109
+GCA_977867425.1	Victivallaceae bacterium	2026-01-22	None	SAMEA118412131
+GCA_056286085.1	Victivallaceae bacterium	2026-03-24	None	SAMN38006252
+GCA_989989895.1	Victivallaceae bacterium	2026-10-20	None	SAMEA124215543
+GCA_056226615.1	Victivallaceae bacterium	2026-03-22	None	SAMN38005773
+GCA_977866285.1	Victivallaceae bacterium	2026-01-22	None	SAMEA118412130
+GCA_056965335.1	Victivallaceae bacterium	2026-04-28	None	SAMN50491962
+GCA_059466615.1	Victivallaceae bacterium	2026-07-16	None	SAMN38002789
+GCA_056274765.1	Victivallaceae bacterium	2026-03-24	None	SAMN38008551
+GCA_052838465.1	Victivallaceae bacterium	2025-09-24	None	SAMN37897601
+GCA_056275225.1	Victivallaceae bacterium	2026-03-24	None	SAMN38008529
+GCA_989978105.1	Victivallales bacterium	2026-10-21	None	SAMEA124215531
+GCA_978031885.1	Victivallaceae bacterium	2026-02-28	None	SAMEA120956986
+GCA_061537405.1	Victivallaceae bacterium	2026-09-21	None	SAMN48469457
+GCA_017542865.1	Victivallales bacterium	2021-03-22	None	SAMN16347277
+GCA_061520105.1	Victivallaceae bacterium	2026-09-21	None	SAMN48469598
+GCA_054291745.1	Victivallaceae bacterium	2026-01-02	None	SAMN37895536
+GCA_061536685.1	Victivallales bacterium	2026-09-21	None	SAMN48469502
+GCA_056557745.1	Victivallales bacterium	2026-04-03	None	SAMN37894742
+GCA_056284365.1	Victivallaceae bacterium	2026-03-24	None	SAMN38006677
+GCA_056273145.1	Victivallaceae bacterium	2026-03-24	None	SAMN38008632
+GCA_061520575.1	Victivallaceae bacterium	2026-09-21	None	SAMN48469559
+GCA_056210035.1	Victivallales bacterium	2026-03-22	None	SAMN38004019
+GCA_964742515.1	Victivallales bacterium	2026-01-29	None	SAMEA117433414
+GCA_965031085.1	Victivallaceae bacterium	2026-02-01	None	SAMEA117438612
+GCA_977866445.1	Victivallaceae bacterium	2026-01-21	None	SAMEA118412128
+GCA_056213255.1	Victivallales bacterium	2026-03-22	None	SAMN38001998
+GCA_061536825.1	Victivallales bacterium	2026-09-21	None	SAMN48469490
+GCA_016285335.1	Victivallales bacterium	2020-12-22	None	SAMN16243728
+GCA_964729075.1	Victivallaceae bacterium	2026-01-30	None	SAMEA117441246
+GCA_059463135.1	Victivallaceae bacterium	2026-07-16	None	SAMN38002962
+GCA_061517965.1	Victivallaceae bacterium	2026-09-21	None	SAMN48469662
+GCA_965333155.1	Victivallaceae bacterium	2025-06-30	None	SAMEA118412124
+GCA_056975895.1	Victivallales bacterium	2026-04-28	None	SAMN50512284
+GCA_056220895.1	Victivallaceae bacterium	2026-03-22	None	SAMN38002166
+GCA_056283325.1	Victivallaceae bacterium	2026-03-24	None	SAMN38006729
+GCA_056271145.1	Victivallaceae bacterium	2026-03-24	None	SAMN38008731
+GCA_056258545.1	Victivallaceae bacterium	2026-03-23	None	SAMN38004846
+GCA_056185915.1	Victivallaceae bacterium	2026-03-22	None	SAMN38006797
+GCA_056270775.1	Victivallaceae bacterium	2026-03-24	None	SAMN38008749
+GCA_056294295.1	Victivallales bacterium	2026-03-24	None	SAMN38006531
+GCA_059466855.1	Victivallaceae bacterium	2026-07-16	None	SAMN38002778
+GCA_056179435.1	Victivallaceae bacterium	2026-03-22	None	SAMN38007122
+GCA_056258885.1	Victivallaceae bacterium	2026-03-23	None	SAMN38004820
+GCA_056272145.1	Victivallaceae bacterium	2026-03-24	None	SAMN38008682
+GCA_965315325.1	Victivallales bacterium	2025-07-07	None	SAMEA118412112
+GCA_017431185.1	Victivallales bacterium	2021-03-19	None	SAMN16343048
+GCA_017963875.1	Victivallales bacterium	2021-04-14	None	SAMN16350598
+GCA_056184175.1	Victivallales bacterium	2026-03-22	None	SAMN38006885
+GCA_021734965.1	Victivallales bacterium	2022-01-31	None	SAMN21020589
+GCA_965335925.1	Victivallales bacterium	2025-06-29	None	SAMEA118412090
+GCA_056283985.1	Victivallaceae bacterium	2026-03-24	None	SAMN38006696
+GCA_054294425.1	Victivallaceae bacterium	2026-01-02	None	SAMN37896602
+GCA_052833725.1	Victivallaceae bacterium	2025-09-24	None	SAMN37897194
+GCA_965329385.1	Victivallaceae bacterium	2025-06-28	None	SAMEA118412123
+GCA_965332555.1	Victivallales bacterium	2025-06-29	None	SAMEA118412089
+GCA_018648945.1	Victivallales bacterium	2021-06-02	None	SAMN14913711
+GCA_056565665.1	Victivallaceae bacterium	2026-04-03	None	SAMN37894902
+GCA_056285125.1	Victivallaceae bacterium	2026-03-24	None	SAMN38006639
+GCA_059459415.1	Victivallaceae bacterium	2026-07-16	None	SAMN38003121
+GCA_057047245.1	Victivallales bacterium	2026-04-29	None	SAMN50509322
+GCA_062052155.1	Victivallales bacterium	2026-10-20	None	SAMN62259815
+GCA_056285585.1	Victivallaceae bacterium	2026-03-24	None	SAMN38006279
+GCA_964920545.1	Victivallaceae bacterium	2026-01-28	None	SAMEA117441024
+GCA_965327965.1	Victivallaceae bacterium	2025-06-29	None	SAMEA118412122
+GCA_056302815.1	Victivallaceae bacterium	2026-03-24	None	SAMN38008007
+GCA_964698655.1	Victivallales bacterium	2026-01-28	None	SAMEA117446306
+GCA_056220215.1	Victivallales bacterium	2026-03-22	None	SAMN38002200
+GCA_965324945.1	Victivallales bacterium	2025-07-05	None	SAMEA118412081
+GCA_056290735.1	Victivallaceae bacterium	2026-03-24	None	SAMN38006021
+GCA_056291415.1	Victivallales bacterium	2026-03-24	None	SAMN38005986
+GCA_965346815.1	Victivallales bacterium	2025-06-28	None	SAMEA118412082
+GCA_056203125.1	Victivallales bacterium	2026-03-22	None	SAMN38002107
+GCA_056225615.1	Victivallaceae bacterium	2026-03-22	None	SAMN38005800
+GCA_056966835.1	Victivallales bacterium	2026-04-28	None	SAMN50491890
+GCA_965318235.1	Victivallales bacterium	2025-07-01	None	SAMEA118412111
+GCA_028718725.1	Victivallales bacterium	2023-02-18	None	SAMN32734223
+GCA_965341475.1	Victivallales bacterium	2025-06-28	None	SAMEA118412115
+GCA_054265295.1	Victivallaceae bacterium	2026-01-02	None	SAMN37897009
+GCA_017542285.1	Victivallales bacterium	2021-03-22	None	SAMN16347306
+GCA_965322615.1	Victivallales bacterium	2025-06-27	None	SAMEA118412087
+GCA_980354605.1	Victivallaceae bacterium	2026-02-21	None	SAMEA121580776
+GCA_059485095.1	Victivallaceae bacterium	2026-07-16	None	SAMN38009003
+GCA_017543165.1	Victivallales bacterium	2021-03-22	None	SAMN16347539
+GCA_057047165.1	Victivallaceae bacterium	2026-04-29	None	SAMN50509326
+GCA_017613755.1	Victivallales bacterium	2021-03-29	None	SAMN16348837
+GCA_965353595.1	Victivallaceae bacterium	2025-06-27	None	SAMEA118412119
+GCA_965016285.1	Victivallaceae bacterium	2026-01-28	None	SAMEA117455176
+GCA_056186755.1	Victivallaceae bacterium	2026-03-22	None	SAMN38006757
+GCA_054268895.1	Victivallales bacterium	2026-01-02	None	SAMN37896842
+GCA_017959845.1	Victivallales bacterium	2021-04-14	None	SAMN16350774
+GCA_017615955.1	Victivallales bacterium	2021-03-29	None	SAMN16348732
+GCA_900771165.1	Victivallales bacterium	2020-06-25	None	SAMEA5278617
+GCA_062059803.1	Victivallaceae bacterium	2026-10-26	None	SAMN51187142
+GCA_041673845.1	Victivallales bacterium	2024-08-30	None	SAMN39891769
+GCA_984586995.1	Victivallales bacterium	2026-06-22	None	SAMEA122232137
+GCA_964790545.1	Victivallales bacterium	2026-01-23	None	SAMEA117462038
+GCA_977504425.1	Victivallaceae bacterium	2026-02-22	None	SAMEA120717910
+GCA_056185585.1	Victivallaceae bacterium	2026-03-22	None	SAMN38006816
+GCA_982719115.1	Victivallales bacterium	2026-06-15	None	SAMEA122242646
+GCA_062060163.1	Victivallales bacterium	2026-10-26	None	SAMN51189221
+GCA_017528765.1	Victivallales bacterium	2021-03-22	None	SAMN16347071
+GCA_059454855.1	Victivallaceae bacterium	2026-07-16	None	SAMN38002703
+GCA_017544015.1	Victivallales bacterium	2021-03-22	None	SAMN16347500
+GCA_045220265.1	Victivallales bacterium	2024-11-22	None	SAMN43293866
+GCA_054642355.1	Victivallaceae bacterium	2026-01-22	None	SAMN53865989
+GCA_965317075.1	Victivallales bacterium	2025-07-06	None	SAMEA118412114
+GCA_062028076.1	Victivallales bacterium	2026-10-09	None	SAMN61037955
+GCA_018671075.1	Victivallales bacterium	2021-06-02	None	SAMN14914179
+GCA_029974815.1	Victivallales bacterium	2023-05-11	None	SAMN33605941
+GCA_964873505.1	Victivallales bacterium	2026-01-26	None	SAMEA117460487
+GCA_035449985.1	Victivallales bacterium	2024-01-09	None	SAMN33867962
+GCA_045635185.1	Victivallaceae bacterium	2024-12-03	None	SAMN37892985
+GCA_977268645.1	Victivallaceae bacterium	2026-03-01	None	SAMEA120696608
+GCA_035452645.1	Victivallales bacterium	2024-01-09	None	SAMN33867829
+GCA_017445705.1	Victivallales bacterium	2021-03-19	None	SAMN16343930
+GCA_017539775.1	Victivallales bacterium	2021-03-22	None	SAMN16347432
+GCA_056186615.1	Victivallales bacterium	2026-03-22	None	SAMN38006763
+GCA_018692585.1	Victivallales bacterium	2021-06-02	None	SAMN14914234
+GCA_977472185.1	Victivallaceae bacterium	2026-02-20	None	SAMEA120717871
+GCA_056572705.1	Victivallales bacterium	2026-04-03	None	SAMN37895195
+GCA_035399925.1	Victivallales bacterium	2024-01-09	None	SAMN32865598
+GCA_036787475.1	Victivallales bacterium	2024-02-22	None	SAMN28749172
+GCA_017454405.1	Victivallales bacterium	2021-03-19	None	SAMN16344176
+GCA_045659685.1	Victivallaceae bacterium	2024-12-03	None	SAMN37894324
+GCA_056262885.1	Victivallaceae bacterium	2026-03-23	None	SAMN38005041
+GCA_054284965.1	Victivallaceae bacterium	2026-01-02	None	SAMN37896334
+GCA_056977855.1	Victivallales bacterium	2026-04-28	None	SAMN50512185
+GCA_045650945.1	Victivallaceae bacterium	2024-12-03	None	SAMN37893925
+GCA_059464015.1	Victivallales bacterium	2026-07-16	None	SAMN38002918
+GCA_056273285.1	Victivallaceae bacterium	2026-03-24	None	SAMN38008625
+GCA_017848275.1	Victivallales bacterium	2021-04-08	None	SAMN16350855
+GCA_017553845.1	Victivallales bacterium	2021-03-22	None	SAMN16348303
+GCA_017652885.1	Victivallales bacterium	2021-03-30	None	SAMN16350107
+GCA_977474275.1	Victivallaceae bacterium	2026-02-16	None	SAMEA120717930
+GCA_965302745.1	Victivallaceae bacterium	2025-06-29	None	SAMEA118412134
+GCA_029934275.1	Victivallales bacterium	2023-05-03	None	SAMN30800772
+GCA_017616035.1	Victivallales bacterium	2021-03-29	None	SAMN16348729
+GCA_977491425.1	Victivallaceae bacterium	2026-02-19	None	SAMEA120717719
+GCA_977474425.1	Victivallaceae bacterium	2026-02-17	None	SAMEA120717754
+GCA_017544425.1	Victivallales bacterium	2021-03-22	None	SAMN16347481
+GCA_062047385.1	Victivallales bacterium	2026-10-19	None	SAMN48778624
+GCA_017651575.1	Victivallales bacterium	2021-03-30	None	SAMN16350173
+GCA_041556655.1	Victivallaceae bacterium	2024-08-29	None	SAMN42101974
+GCA_023136595.1	Victivallaceae bacterium	2022-04-26	None	SAMN18452148
+GCA_017538745.1	Victivallales bacterium	2021-03-22	None	SAMN16347586
+GCA_056978615.1	Victivallales bacterium	2026-04-28	None	SAMN50512146
+GCA_989970465.1	Victivallaceae bacterium	2026-10-20	None	SAMEA124213411
+GCA_036836375.1	Victivallales bacterium	2024-02-23	None	SAMN28751099
+GCA_017650785.1	Victivallales bacterium	2021-03-30	None	SAMN16350214
+GCA_023145895.1	Victivallales bacterium	2022-04-27	None	SAMN18451375
+GCA_017557095.1	Victivallales bacterium	2021-03-22	None	SAMN16348067
+GCA_017423725.1	Victivallales bacterium	2021-03-18	None	SAMN16341407
+GCA_017645435.1	Victivallales bacterium	2021-03-30	None	SAMN16350481
+GCA_045597435.1	Victivallaceae bacterium	2024-12-03	None	SAMN37892646
+GCA_017538285.1	Victivallales bacterium	2021-03-22	None	SAMN16347611
+GCA_057333275.1	Victivallales bacterium	2026-05-07	None	SAMN56376157
+GCA_036654115.1	Victivallaceae bacterium	2024-02-16	None	SAMN37015230
+GCA_058484495.1	Victivallales bacterium	2026-06-26	None	SAMN60672907
+GCA_057039545.1	Victivallales bacterium	2026-04-29	None	SAMN50509542
+GCA_056973575.1	Victivallales bacterium	2026-04-28	None	SAMN50512398
+GCA_036654935.1	Victivallaceae bacterium	2024-02-16	None	SAMN37015231
+GCA_036723095.1	Victivallales bacterium	2024-02-21	None	SAMN28745848
+GCA_062055501.1	Victivallales bacterium	2026-10-23	None	SAMN51189411
+GCA_989987585.1	Victivallales bacterium	2026-10-20	None	SAMEA124215564
+GCA_029938355.1	Victivallales bacterium	2023-05-03	None	SAMN30800546
+GCA_056947465.1	Victivallales bacterium	2026-04-28	None	SAMN56408082
+GCA_036797585.1	Victivallales bacterium	2024-02-22	None	SAMN28749345
+GCA_054282195.1	Candidatus Spyradenecus sp.	2026-01-02	None	SAMN37895844
+GCA_056566105.1	Candidatus Spyradenecus sp.	2026-04-03	None	SAMN37894880
+GCA_985046265.1	Lentisphaeria bacterium	2026-07-03	None	SAMEA122831379
+GCA_062032874.1	Lentisphaeria bacterium	2026-10-12	None	SAMN62258347
+GCA_982250435.1	uncultured Lentisphaeria bacterium	2026-03-14	None	SAMEA121943445
+GCA_056966215.1	Victivallis sp.	2026-04-28	None	SAMN50491922
+GCA_981444615.1	uncultured Lentisphaeria bacterium	2026-03-02	None	SAMEA121782094
+GCA_982254925.1	uncultured Lentisphaeria bacterium	2026-03-13	None	SAMEA121943346
+GCA_981446995.1	uncultured Victivallis sp.	2026-03-02	None	SAMEA121782542
+GCA_982250995.1	uncultured Victivallales bacterium	2026-03-13	None	SAMEA121943351
+GCA_982331075.1	uncultured Lentisphaeria bacterium	2026-03-22	None	SAMEA121994616
+GCA_981638115.1	uncultured Victivallis sp.	2026-03-02	97.49	SAMEA121805320
+GCA_978003425.1	uncultured Lentisphaeria bacterium	2026-02-05	None	SAMEA120855662
+GCA_986120005.1	Lentisphaeria bacterium	2026-07-04	None	SAMEA122920288
+GCA_056877575.1	Victivallis lenta	2026-04-23	98.28	SAMN50492427
+GCA_056201415.1	Candidatus Spyradenecus sp.	2026-03-22	None	SAMN38004588
+GCA_982257705.1	uncultured Lentisphaeria bacterium	2026-03-14	None	SAMEA121943196
+GCA_981814175.1	uncultured Victivallis sp.	2026-03-06	None	SAMEA121861650
+GCA_981436075.1	uncultured Lentisphaeria bacterium	2026-03-02	None	SAMEA121782605
+GCA_056557345.1	Candidatus Spyradenecus sp.	2026-04-03	None	SAMN37894760
+GCA_977975855.1	uncultured Victivallales bacterium	2026-02-05	None	SAMEA120847988
+GCA_981807575.1	uncultured Victivallales bacterium	2026-03-06	None	SAMEA121861050
+GCA_986139065.1	Lentisphaeria bacterium	2026-07-04	None	SAMEA122920194
+GCA_982225635.1	uncultured Victivallis sp.	2026-03-14	None	SAMEA121938903
+GCA_056216475.1	Candidatus Spyradenecus sp.	2026-03-22	None	SAMN38005565
+GCA_052830425.1	Candidatus Spyradenecus sp.	2025-09-24	98.28	SAMN37897360
+GCA_017456805.1	Lentisphaeria bacterium	2021-03-19	None	SAMN16344320
+GCA_982696375.1	Lentisphaeria bacterium	2026-05-05	None	SAMEA122243578
+GCA_982237405.1	uncultured Victivallis sp.	2026-03-14	None	SAMEA121943151
+GCA_017445715.1	Lentisphaeria bacterium	2021-03-19	None	SAMN16343929
+GCA_986126585.1	Lentisphaeria bacterium	2026-07-03	None	SAMEA122923181
+GCA_981814785.1	uncultured Lentisphaeria bacterium	2026-03-06	None	SAMEA121860720
+GCA_052840705.1	Victivallis sp.	2025-09-25	98.28	SAMN37897530
+GCA_982240165.1	uncultured Victivallis sp.	2026-03-14	97.49	SAMEA121942976
+GCA_057611115.1	Victivallis sp.	2026-05-18	None	SAMN50509730
+GCA_966165705.1	uncultured Victivallis sp.	2025-08-31	None	SAMEA118426026
+GCA_982719095.1	Lentisphaeria bacterium	2026-05-18	None	SAMEA122242647
+GCA_989987605.1	Lentisphaeria bacterium	2026-10-21	None	SAMEA124215562
+GCA_056263785.1	Candidatus Spyradenecus sp.	2026-03-23	None	SAMN38004998
+GCA_056260005.1	Candidatus Spyradenecus sp.	2026-03-23	None	SAMN38004764
+GCA_984587315.1	Lentisphaeria bacterium	2026-06-22	None	SAMEA122237858
+GCA_981440395.1	uncultured Lentisphaeraceae bacterium	2026-03-02	None	SAMEA121782284
+GCA_982692435.1	Lentisphaeria bacterium	2026-05-05	None	SAMEA122243999
+GCA_965343675.1	Victivallis sp.	2025-06-30	None	SAMEA118412137
+GCA_965327925.1	Victivallis sp.	2025-07-02	None	SAMEA118412136
+GCA_981442865.1	uncultured Lentisphaeria bacterium	2026-03-02	None	SAMEA121782558
+GCA_982713345.1	Lentisphaeria bacterium	2026-05-18	None	SAMEA122244159
+GCA_055110935.1	Lentisphaeria bacterium	2026-02-13	None	SAMN54248441
+GCA_964906715.1	Lentisphaeria bacterium UBA1407	2026-01-28	None	SAMEA117446440
+GCA_964419875.1	uncultured Lentisphaeraceae bacterium	2025-01-15	None	SAMEA117385067
+GCA_966196055.1	uncultured Victivallis sp.	2025-08-31	96.55	SAMEA118426415
+GCA_977898705.1	uncultured Victivallales bacterium	2026-02-05	None	SAMEA120792060
+GCA_964495975.1	uncultured Victivallales bacterium	2025-01-15	None	SAMEA117384279
+GCA_017456335.1	Lentisphaeria bacterium	2021-03-19	None	SAMN16344348
+GCA_965031055.1	Lentisphaeria bacterium UBA1407	2026-01-27	None	SAMEA117456436
+GCA_966180785.1	uncultured Victivallis sp.	2025-08-31	94.67	SAMEA118426144
+GCA_057045845.1	Victivallis sp.	2026-04-29	None	SAMN50509377
+GCA_062032616.1	Lentisphaeria bacterium	2026-10-12	None	SAMN62258597
+GCA_017617515.1	Lentisphaeria bacterium	2021-03-29	None	SAMN16348652
+GCA_965326325.1	Victivallis sp.	2025-06-29	None	SAMEA118412138
+GCA_982312035.1	uncultured Lentisphaeria bacterium	2026-03-20	None	SAMEA121972998
+GCA_059436915.1	Lentisphaeria bacterium	2026-07-15	None	SAMN45315548
+GCA_964769225.1	Lentisphaeria bacterium UBA1407	2026-02-01	None	SAMEA117439574
+GCA_056556165.1	Victivallis sp.	2026-04-03	None	SAMN37894822
+GCA_017507745.1	Lentisphaeria bacterium	2021-03-22	None	SAMN16346025
+GCA_982961335.1	Lentisphaeria bacterium	2026-06-11	None	SAMEA122309007
+GCA_966195095.1	uncultured Victivallis sp.	2025-08-31	None	SAMEA118426348
+GCA_964729095.1	Lentisphaeria bacterium UBA1407	2026-01-27	None	SAMEA117454358
+GCA_965315165.1	Victivallis sp.	2025-07-02	None	SAMEA118412140
+GCA_055501595.1	Lentisphaeria bacterium	2026-02-24	None	SAMN54251700
+GCA_964649295.1	uncultured Lentisphaerales bacterium	2025-01-15	None	SAMEA117288816
+GCA_024683355.1	Lentisphaeria bacterium	2022-08-15	None	SAMN20247212
+GCA_978000355.1	uncultured Lentisphaeria bacterium	2026-02-05	None	SAMEA120855672
+GCA_055164675.1	Lentisphaeria bacterium	2026-02-14	None	SAMN54251579
+GCA_062025943.1	Lentisphaeria bacterium	2026-10-07	None	SAMN48458970
+GCA_016287975.1	Lentisphaeria bacterium	2020-12-22	None	SAMN16243942
+GCA_989966635.1	Lentisphaeria bacterium	2026-10-21	None	SAMEA124213947
+GCA_059435815.1	Lentisphaeria bacterium	2026-07-15	None	SAMN45315603
+GCA_062006217.1	Lentisphaeria bacterium	2026-09-28	None	SAMN48463014
+GCA_981453265.1	uncultured Lentisphaeria bacterium	2026-03-02	None	SAMEA121782405
+GCA_964846735.1	Lentisphaeria bacterium UBA1407	2026-02-01	None	SAMEA117446433
+GCA_964438655.1	uncultured Lentisphaeraceae bacterium	2025-01-15	None	SAMEA117292963
+GCA_060852545.1	Lentisphaeria bacterium	2026-09-04	None	SAMN61838902
+GCA_024694345.1	Lentisphaeria bacterium	2022-08-15	None	SAMN20246920
+GCA_062004915.1	Lentisphaeria bacterium	2026-09-28	None	SAMN48460654
+GCA_061539195.1	Lentisphaeria bacterium	2026-09-21	None	SAMN48469493
+GCA_964934415.1	Lentisphaeria bacterium UBA1407	2026-02-01	None	SAMEA117446635
+GCA_982933055.1	Lentisphaeria bacterium	2026-05-18	None	SAMEA122293731
+GCA_982266665.1	uncultured Lentisphaeria bacterium	2026-03-14	None	SAMEA121953286
+GCA_982408765.1	Lentisphaeria bacterium	2026-04-14	None	SAMEA122088850
+GCA_964670695.1	Lentisphaeria bacterium UBA1407	2026-01-26	None	SAMEA117439583
+GCA_913042885.1	uncultured Lentisphaeria bacterium	2021-09-22	None	SAMEA9694122
+GCA_937890895.1	uncultured Lentisphaerales bacterium	2023-01-12	None	SAMEA14075085
+GCA_062014063.1	Lentisphaeria bacterium	2026-10-01	None	SAMN48457385
+GCA_903961625.1	uncultured Victivallales bacterium	2020-07-20	None	SAMEA6943612
+GCA_056263885.1	Victivallis sp.	2026-03-23	None	SAMN38004992
+GCA_903834675.1	uncultured Victivallales bacterium	2020-07-20	None	SAMEA6951808
+GCA_017648455.1	Lentisphaeria bacterium	2021-03-30	None	SAMN16350330
+GCA_982321205.1	uncultured Victivallis sp.	2026-03-22	None	SAMEA121994421
+GCA_017624485.1	Lentisphaeria bacterium	2021-03-29	None	SAMN16349090
+GCA_982241115.1	uncultured Lentisphaeria bacterium	2026-03-14	None	SAMEA121943081
+GCA_062070262.1	Lentisphaeria bacterium	2026-10-30	None	SAMN56736945
+GCA_964712105.1	Lentisphaeraceae bacterium	2026-01-28	None	SAMEA117443416
+GCA_061517205.1	Lentisphaeria bacterium	2026-09-21	None	SAMN48469681
+GCA_021232545.1	Lentisphaeraceae bacterium	2021-12-20	None	SAMN23445382
+GCA_062032791.1	Lentisphaeria bacterium	2026-10-12	None	SAMN62258426
+GCA_986107345.1	Lentisphaeria bacterium	2026-07-03	None	SAMEA122922347
+GCA_055495515.1	Lentisphaeria bacterium	2026-02-24	None	SAMN54251983
+GCA_964506775.1	uncultured Victivallales bacterium	2025-01-15	None	SAMEA117296141
+GCA_963656365.1	Lentisphaeria bacterium	2023-12-10	None	SAMEA114583247
+GCA_964743895.1	Lentisphaeria bacterium UBA1407	2026-02-01	None	SAMEA117440791
+GCA_981814595.1	uncultured Lentisphaeria bacterium	2026-03-06	None	SAMEA121860827
+GCA_982961425.1	Lentisphaeria bacterium	2026-05-17	None	SAMEA122309029
+GCA_986100995.1	Lentisphaeria bacterium	2026-07-04	None	SAMEA122923850
+GCA_062032763.1	Lentisphaeria bacterium	2026-10-12	None	SAMN62258451
+GCA_977196795.1	Lentisphaerales bacterium	2026-02-22	None	SAMEA120688360
+GCA_977079795.1	uncultured Lentisphaeria bacterium	2025-12-05	None	SAMEA120616803
+GCA_056190335.1	Lentisphaeria bacterium	2026-03-22	None	SAMN38004425
+GCA_982415545.1	Lentisphaeria bacterium	2026-04-14	None	SAMEA122089865
+GCA_984451875.1	Lentisphaeraceae bacterium	2026-06-21	None	SAMEA122663848
+GCA_965307125.1	Lentisphaeria bacterium	2025-06-29	None	SAMEA118412078
+GCA_021232525.1	Lentisphaeraceae bacterium	2021-12-20	None	SAMN23445383
+GCA_062069780.1	Lentisphaeria bacterium	2026-10-29	None	SAMN60978531
+GCA_981636375.1	uncultured Lentisphaeria bacterium	2026-03-02	None	SAMEA121805246
+GCA_977551585.1	Lentisphaeraceae bacterium	2026-02-28	None	SAMEA120725194
+GCA_056211295.1	Lentisphaeria bacterium	2026-03-22	None	SAMN38003955
+GCA_977073405.1	uncultured Victivallis sp.	2025-12-05	None	SAMEA120615507
+GCA_964962405.1	Lentisphaeraceae bacterium	2026-01-27	None	SAMEA117436280
+GCA_021232575.1	Lentisphaeraceae bacterium	2021-12-20	None	SAMN23445384
+GCA_060445765.1	Lentisphaeria bacterium	2026-08-25	None	SAMN54346124
+GCA_964581345.1	uncultured Victivallales bacterium	2025-01-10	None	SAMEA117288973
+GCA_055095715.1	Lentisphaeria bacterium	2026-02-14	None	SAMN54249449
+GCA_982416295.1	Lentisphaeria bacterium	2026-04-13	None	SAMEA122089670
+GCA_062069779.1	Lentisphaeria bacterium	2026-10-29	None	SAMN60978533
+GCA_964457675.1	uncultured Victivallales bacterium	2025-01-09	None	SAMEA117289478
+GCA_964631005.1	uncultured Lentisphaerales bacterium	2025-01-12	None	SAMEA117289481
+GCA_034004725.1	Lentisphaeria bacterium	2023-11-30	None	SAMN36911000
+GCA_978008495.1	uncultured Lentisphaeria bacterium	2026-02-05	None	SAMEA120856696
+GCA_964447135.1	uncultured Victivallaceae bacterium	2025-01-09	None	SAMEA117296178
+GCA_977889695.1	uncultured Lentisphaeria bacterium	2026-01-24	None	SAMEA120792147
+GCA_982258525.1	uncultured Lentisphaeria bacterium	2026-03-14	None	SAMEA121942780
+GCA_981443025.1	uncultured Lentisphaeria bacterium	2026-03-02	None	SAMEA121782844
+GCA_964399405.1	uncultured Lentisphaeraceae bacterium	2025-01-12	None	SAMEA117383366
+GCA_963581985.1	Lentisphaeria bacterium	2023-11-05	None	SAMEA114238402
+GCA_017554685.1	Lentisphaeria bacterium	2021-03-22	None	SAMN16348252
+GCA_048617515.1	Lentisphaeria bacterium	2025-03-18	None	SAMN47233869
+GCA_060446665.1	Lentisphaeria bacterium	2026-08-25	None	SAMN54346112
+GCA_903821255.1	uncultured Lentisphaeria bacterium	2020-07-20	None	SAMEA6951175
+GCA_017632395.1	Lentisphaeria bacterium	2021-03-30	None	SAMN16349883
+GCA_017629495.1	Lentisphaeria bacterium	2021-03-30	None	SAMN16350028
+GCA_964610625.1	uncultured Lentisphaeraceae bacterium	2025-01-12	None	SAMEA117384358
+GCA_041306565.1	Lentisphaerales bacterium	2024-08-15	None	SAMN40440584
+GCA_902487845.1	uncultured Lentisphaeria bacterium	2021-04-09	None	SAMEA5853142
+GCA_060864325.1	Lentisphaeria bacterium	2026-09-04	None	SAMN61841724
+GCA_982321405.1	uncultured Victivallis sp.	2026-03-22	None	SAMEA121993841
+GCA_017962505.1	Lentisphaeria bacterium	2021-04-14	None	SAMN16350654
+GCA_062070185.1	Lentisphaeria bacterium	2026-10-30	None	SAMN56737026
+GCA_965328455.1	Victivallis lenta	2025-06-30	60.19	SAMEA118412139
+GCA_982237415.1	uncultured Victivallis sp.	2026-03-14	None	SAMEA121942529
+GCA_946532095.1	uncultured Lentisphaeraceae bacterium	2022-09-15	None	SAMEA110744556
+GCA_011087915.1	Lentisphaeria bacterium	2020-03-09	None	SAMN14054236
+GCA_989957355.1	Victivallis lenta	2026-10-21	None	SAMEA124213401
+GCA_021620325.1	Lentisphaeria bacterium	2022-01-26	None	SAMN23482609
+GCA_017617185.1	Lentisphaeria bacterium	2021-03-29	None	SAMN16348671
+GCA_958421995.1	uncultured Lentisphaeria bacterium	2023-07-19	None	SAMEA114063489
+GCA_017456815.1	Lentisphaeria bacterium	2021-03-19	None	SAMN16344322
+GCA_982933145.1	Lentisphaera sp.	2026-05-18	None	SAMEA122293708
+GCA_017630055.1	Lentisphaeria bacterium	2021-03-30	None	SAMN16349997
+GCA_062069777.1	Lentisphaeria bacterium	2026-10-29	None	SAMN60978532
+GCA_017527225.1	Lentisphaeria bacterium	2021-03-22	None	SAMN16347121
+GCA_028701535.1	Lentisphaeria bacterium	2023-02-18	None	SAMN32737335
+GCA_048443985.1	Victivallis sp.	2025-03-05	None	SAMN46335758
+GCA_017505205.1	Lentisphaeria bacterium	2021-03-22	None	SAMN16345747
+GCA_964443665.1	uncultured Lentisphaeraceae bacterium	2025-01-10	None	SAMEA117383025
+GCA_045628765.1	Lentisphaeria bacterium	2024-12-03	None	SAMN37893291
+GCA_018399145.1	Lentisphaeria bacterium	2021-05-19	None	SAMN19006062
+GCA_964446325.1	uncultured Lentisphaerales bacterium	2025-01-11	None	SAMEA117287214
+GCA_018400465.1	Lentisphaeria bacterium	2021-05-19	None	SAMN19006012
+GCA_934655985.1	uncultured Victivallales bacterium	2022-04-16	None	SAMEA13524711
+GCA_017502325.1	Lentisphaeria bacterium	2021-03-22	None	SAMN16345892
+GCA_982258135.1	uncultured Lentisphaeria bacterium	2026-03-14	None	SAMEA121942660
+GCA_964585815.1	uncultured Lentisphaeraceae bacterium	2025-01-12	None	SAMEA117376205
+GCA_902473585.1	uncultured Lentisphaeria bacterium	2021-04-09	None	SAMEA5851388
+GCA_964635695.1	uncultured Lentisphaeraceae bacterium	2025-01-12	None	SAMEA117384613
+GCA_048198355.1	Victivallis sp.	2025-02-27	None	SAMN46330134
+GCA_982322035.1	uncultured Victivallis sp.	2026-03-22	None	SAMEA121993422
+GCA_003506955.1	Lentisphaeria bacterium	2018-09-07	None	SAMN08018856
+GCA_934661575.1	uncultured Victivallales bacterium	2022-04-16	None	SAMEA13475345
+GCA_964627725.1	uncultured Lentisphaerales bacterium	2025-01-10	None	SAMEA117291031
+GCA_030590345.1	Lentisphaeria bacterium	2023-08-03	None	SAMN34042736
+GCA_964619255.1	uncultured Lentisphaeraceae bacterium	2025-01-10	None	SAMEA117291036
+GCA_964621115.1	uncultured Victivallales bacterium	2025-01-10	None	SAMEA117391603
+GCA_900771015.1	Lentisphaeria bacterium	2020-06-25	None	SAMEA5278478
+GCA_902487865.1	uncultured Lentisphaeria bacterium	2021-03-13	None	SAMEA5853133
+GCA_982235875.1	uncultured Lentisphaeria bacterium	2026-03-14	None	SAMEA121942292
+GCA_013215935.1	Lentisphaeraceae bacterium	2020-06-02	None	SAMN14675745
+GCA_964613685.1	uncultured Lentisphaeria bacterium	2025-01-09	None	SAMEA117393068
+GCA_937876965.1	uncultured Lentisphaeria bacterium	2023-01-12	None	SAMEA14075142
+GCA_982259155.1	uncultured Lentisphaeria bacterium	2026-03-14	None	SAMEA121953197
+GCA_964642365.1	uncultured Lentisphaeraceae bacterium	2025-01-11	None	SAMEA117372708
+GCA_981816115.1	uncultured Lentisphaeria bacterium	2026-03-06	None	SAMEA121861056
+GCA_948468855.1	uncultured Lentisphaeria bacterium	2023-02-03	None	SAMEA112353514
+GCA_964003795.1	uncultured Lentisphaeria bacterium	2024-03-19	None	SAMEA115420352
+GCA_946408465.1	uncultured Lentisphaeria bacterium	2022-09-12	None	SAMEA110643766
+GCA_023145875.1	Lentisphaeria bacterium	2022-04-27	None	SAMN18451373
+GCA_982225355.1	uncultured Victivallis sp.	2026-03-14	None	SAMEA121938644
+GCA_030638365.1	Lentisphaerales bacterium	2023-08-03	None	SAMN34049960
+GCA_964416325.1	uncultured Victivallales bacterium	2025-01-12	None	SAMEA117376151
+GCA_030743795.1	Lentisphaeria bacterium	2023-08-15	None	SAMN34270340
+GCA_964569435.1	uncultured Victivallales bacterium	2025-01-07	None	SAMEA117289454
+GCA_001604255.1	Victivallales bacterium Lenti_03	2016-03-30	None	SAMN03837557
+GCA_060781285.1	Lentisphaeraceae bacterium	2026-09-02	None	SAMN47010143
+GCA_963579165.1	Lentisphaeria bacterium	2023-11-05	None	SAMEA114237884
+GCA_060844665.1	Lentisphaera sp.	2026-09-03	None	SAMN61840059
+GCA_964520925.1	uncultured Lentisphaeria bacterium	2025-01-06	None	SAMEA117390631
+GCA_017501905.1	Lentisphaeria bacterium	2021-03-22	None	SAMN16345914
+GCA_001604235.1	Lentisphaerales bacterium Lenti_01	2016-03-30	None	SAMN03837555
+GCA_964453285.1	uncultured Victivallaceae bacterium	2025-01-11	None	SAMEA117296579
+GCA_964468035.1	uncultured Lentisphaeraceae bacterium	2025-01-13	None	SAMEA117371721
+GCA_964355225.1	uncultured Victivallales bacterium	2025-01-15	None	SAMEA117370953
+GCA_964587965.1	uncultured Lentisphaerales bacterium	2025-01-14	None	SAMEA117289376
+GCA_958413075.1	uncultured Lentisphaeria bacterium	2023-07-19	None	SAMEA114063325
+GCA_027055975.1	Lentisphaeria bacterium	2022-12-19	None	SAMN27359414
+GCA_021629995.1	Lentisphaeria bacterium	2022-01-26	None	SAMN23483744
+GCA_017414865.1	Lentisphaeria bacterium	2021-03-18	None	SAMN16342247
+GCA_982339385.1	uncultured Victivallis sp.	2026-03-22	None	SAMEA121993706
+GCA_977952345.1	uncultured Victivallis sp.	2026-02-06	None	SAMEA120811330
+GCA_900763365.1	Lentisphaeria bacterium	2020-06-25	None	SAMEA5278320
+GCA_958454595.1	uncultured Lentisphaeria bacterium	2023-07-18	None	SAMEA114065005
+GCA_982684175.1	Lentisphaeria bacterium	2026-05-05	None	SAMEA122233111
+GCA_965143145.1	uncultured Lentisphaeria bacterium	2025-02-15	None	SAMEA117656594
+GCA_048361875.1	Victivallis lenta	2025-03-04	None	SAMN46336720
+GCA_937920935.1	uncultured Lentisphaeria bacterium	2023-01-11	None	SAMEA14085804
+GCA_017628955.1	Lentisphaeria bacterium	2021-03-29	None	SAMN16350055
+GCA_017535575.1	Lentisphaeria bacterium	2021-03-22	None	SAMN16347212
+GCA_982707865.1	Lentisphaerales bacterium	2026-05-17	None	SAMEA122237151
+GCA_946408815.1	uncultured Lentisphaeria bacterium	2022-09-12	None	SAMEA110643754
+GCA_982252425.1	uncultured Lentisphaeria bacterium	2026-03-14	None	SAMEA121943385
+GCA_903829295.1	uncultured Lentisphaeria bacterium	2020-07-20	None	SAMEA6946586
+GCA_934663945.1	uncultured Victivallales bacterium	2022-04-16	None	SAMEA13472601
+GCA_964389715.1	uncultured Victivallales bacterium	2025-01-12	None	SAMEA117289987
+GCA_035410245.1	Lentisphaeria bacterium	2024-01-09	None	SAMN32866296
+GCA_056209495.1	Lentisphaeria bacterium	2026-03-22	None	SAMN38004047
+GCA_017630295.1	Lentisphaeria bacterium	2021-03-30	None	SAMN16349987
+GCA_017507485.1	Lentisphaeria bacterium	2021-03-22	None	SAMN16346037
+GCA_017502385.1	Lentisphaeria bacterium	2021-03-22	None	SAMN16345889
+GCA_982686345.1	Lentisphaeraceae bacterium	2026-05-05	None	SAMEA122233278
+GCA_903888025.1	uncultured Lentisphaeria bacterium	2020-07-19	None	SAMEA6948580
+GCA_017628605.1	Lentisphaeria bacterium	2021-03-29	None	SAMN16350072
+GCA_905198275.1	uncultured Lentisphaeria bacterium	2021-02-03	None	SAMEA7846388
+GCA_017532505.1	Lentisphaeria bacterium	2021-03-22	None	SAMN16346936
+GCA_964647435.1	uncultured Victivallaceae bacterium	2025-01-09	None	SAMEA117382296
+GCA_902490205.1	uncultured Victivallales bacterium	2021-03-30	None	SAMEA5853410
+GCA_964613065.1	uncultured Lentisphaeraceae bacterium	2025-01-09	None	SAMEA117295318
+GCA_986135745.1	Lentisphaeria bacterium	2026-07-03	None	SAMEA122920665
+GCA_964460015.1	uncultured Victivallales bacterium	2025-01-11	None	SAMEA117375082
+GCA_062032569.1	Lentisphaeria bacterium	2026-10-12	None	SAMN62258645
+GCA_017501765.1	Lentisphaeria bacterium	2021-03-22	None	SAMN16345920
+GCA_060780925.1	Lentisphaeraceae bacterium	2026-09-02	None	SAMN47010152
+GCA_017503425.1	Lentisphaeria bacterium	2021-03-22	None	SAMN16345837
+GCA_937891255.1	uncultured Lentisphaeria bacterium	2023-01-11	None	SAMEA14081789
+GCA_982846995.1	Lentisphaeria bacterium	2026-05-17	None	SAMEA122295743
+GCA_964506625.1	uncultured Lentisphaerales bacterium	2025-01-09	None	SAMEA117290989
+GCA_977891705.1	uncultured Lentisphaeria bacterium	2026-02-05	None	SAMEA120791804
+GCA_964506445.1	uncultured Lentisphaeraceae bacterium	2025-01-07	None	SAMEA117384610
+GCA_964642975.1	uncultured Victivallales bacterium	2025-01-07	None	SAMEA117290546
+GCA_903875095.1	uncultured Lentisphaeria bacterium	2020-07-18	None	SAMEA6951962
+GCA_030619015.1	Lentisphaeria bacterium	2023-08-03	None	SAMN34051011
+GCA_977809925.1	Lentisphaeraceae bacterium	2026-03-01	None	SAMEA120748707
+GCA_017506105.1	Lentisphaeria bacterium	2021-03-22	None	SAMN16345707
+GCA_035413925.1	Lentisphaeria bacterium	2024-01-09	None	SAMN32866112
+GCA_035418005.1	Lentisphaeria bacterium	2024-01-09	None	SAMN32866695
+GCA_903894105.1	uncultured Lentisphaeria bacterium	2020-07-19	None	SAMEA6944653
+GCA_964441985.1	uncultured Lentisphaeraceae bacterium	2025-01-12	None	SAMEA117292808
+GCA_964509235.1	uncultured Victivallales bacterium	2025-01-09	None	SAMEA117365694
+GCA_021632005.1	Lentisphaeria bacterium	2022-01-26	None	SAMN23483212
+GCA_978008935.1	uncultured Lentisphaeria bacterium	2026-02-05	None	SAMEA120856385
+GCA_017958425.1	Lentisphaeria bacterium	2021-04-14	None	SAMN16350850
+GCA_964622245.1	uncultured Victivallales bacterium	2025-01-12	None	SAMEA117289455
+GCA_035366555.1	Lentisphaeria bacterium	2024-01-09	None	SAMN32863236
+GCA_903888985.1	uncultured Lentisphaeria bacterium	2020-07-19	None	SAMEA6945314
+GCA_017501675.1	Lentisphaeria bacterium	2021-03-22	None	SAMN16345923
+GCA_903878605.1	uncultured Lentisphaeria bacterium	2020-07-19	None	SAMEA6944513
+GCA_982248735.1	uncultured Lentisphaeria bacterium	2026-03-13	None	SAMEA121942978
+GCA_982242155.1	uncultured Lentisphaeria bacterium	2026-03-13	None	SAMEA121942291
+GCA_964595125.1	uncultured Victivallaceae bacterium	2025-01-08	None	SAMEA117383045
+GCA_981440845.1	uncultured Lentisphaeria bacterium	2026-03-02	None	SAMEA121782656
+GCA_964618835.1	uncultured Victivallales bacterium	2025-01-15	None	SAMEA117376061
+GCA_982413935.1	Lentisphaeria bacterium	2026-04-14	None	SAMEA122089274
+GCA_981807295.1	uncultured Lentisphaeraceae bacterium	2026-03-06	None	SAMEA121860790
+GCA_965148565.1	uncultured Lentisphaeria bacterium	2025-02-15	None	SAMEA117656532
+GCA_964578085.1	uncultured Victivallales bacterium	2025-01-07	None	SAMEA117289482
+GCA_900772765.1	Lentisphaeria bacterium	2020-06-26	None	SAMEA5278315
+GCA_900763935.1	Lentisphaeria bacterium	2020-06-25	None	SAMEA5278770
+GCA_984505575.1	Lentisphaeraceae bacterium	2026-06-22	None	SAMEA122669388
+GCA_964372015.1	uncultured Victivallaceae bacterium	2025-01-07	None	SAMEA117373569
+GCA_964507735.1	uncultured Lentisphaeraceae bacterium	2025-01-08	None	SAMEA117118629
+GCA_017554715.1	Lentisphaeria bacterium	2021-03-22	None	SAMN16348250
+GCA_965307335.1	Lentisphaeria bacterium	2025-06-28	None	SAMEA118412079
+GCA_982749515.1	Lentisphaeria bacterium	2026-06-06	None	SAMEA122295328
+GCA_965369415.1	uncultured Lentisphaeria bacterium	2025-07-03	None	SAMEA118545713
+GCA_903855245.1	uncultured Lentisphaeria bacterium	2020-07-19	None	SAMEA6947158
+GCA_017434245.1	Lentisphaeria bacterium	2021-03-19	None	SAMN16342894
+GCA_903902505.1	uncultured Lentisphaeria bacterium	2020-07-18	None	SAMEA6949345
+GCA_036804865.1	Victivallis lenta	2024-02-22	None	SAMN28749715
+GCA_017631535.1	Lentisphaeria bacterium	2021-03-30	None	SAMN16349923
+GCA_017431285.1	Lentisphaeria bacterium	2021-03-19	None	SAMN16343043
+GCA_982684385.1	Lentisphaeraceae bacterium	2026-05-05	None	SAMEA122233078
+GCA_017521705.1	Lentisphaeria bacterium	2021-03-22	None	SAMN16346744
+GCA_982251755.1	uncultured Lentisphaeria bacterium	2026-03-13	None	SAMEA121943440
+GCA_017936065.1	Lentisphaeria bacterium	2021-04-13	None	SAMN16349595
+GCA_982238415.1	uncultured Lentisphaeria bacterium	2026-03-13	None	SAMEA121942573
+GCA_964569885.1	uncultured Victivallaceae bacterium	2025-01-09	None	SAMEA117390870
+GCA_051650905.1	Lentisphaeria bacterium	2025-07-30	None	SAMN48522952
+GCA_017631455.1	Lentisphaeria bacterium	2021-03-30	None	SAMN16349931
+GCA_037236955.1	Victivallis sp.	2024-03-18	None	SAMN37824131
+GCA_017628455.1	Lentisphaeria bacterium	2021-03-29	None	SAMN16350083
+GCA_021632475.1	Lentisphaeria bacterium	2022-01-26	None	SAMN23483166
+GCA_982330365.1	uncultured Victivallis sp.	2026-03-22	None	SAMEA121994562
+GCA_964498535.1	uncultured Victivallales bacterium	2025-01-13	None	SAMEA117382228
+GCA_982444905.1	Lentisphaeria bacterium	2026-04-14	None	SAMEA122091965
+GCA_017629065.1	Lentisphaeria bacterium	2021-03-29	None	SAMN16350050
+GCA_903825965.1	uncultured Lentisphaeria bacterium	2020-07-18	None	SAMEA6943988
+GCA_982245435.1	uncultured Lentisphaeria bacterium	2026-03-13	None	SAMEA121942034
+GCA_900755145.1	Lentisphaeria bacterium	2020-06-26	None	SAMEA5279416
+GCA_903917925.1	uncultured Lentisphaeria bacterium	2020-07-18	None	SAMEA6946153
+GCA_903961415.1	uncultured Victivallales bacterium	2020-07-20	None	SAMEA6948546
+GCA_017632075.1	Lentisphaeria bacterium	2021-03-30	None	SAMN16349893
+GCA_035916655.1	Lentisphaeria bacterium	2024-01-19	None	SAMN26756077
+GCA_964636525.1	uncultured Lentisphaerales bacterium	2025-01-07	None	SAMEA117371454
+GCA_986133625.1	Lentisphaeria bacterium	2026-07-02	None	SAMEA122921597
+GCA_900763155.1	Lentisphaeria bacterium	2020-06-25	None	SAMEA5278316
+GCA_900771125.1	Lentisphaeria bacterium	2020-06-25	None	SAMEA5278475
+GCA_041636275.1	Lentisphaeraceae bacterium	2024-08-29	None	SAMN42105710
+GCA_900756325.1	Lentisphaeria bacterium	2020-06-26	None	SAMEA5278319
+GCA_062044633.1	Lentisphaeria bacterium	2026-10-16	None	SAMN51190771
+GCA_017645405.1	Lentisphaeria bacterium	2021-03-30	None	SAMN16350480
+GCA_057598765.1	Victivallis sp.	2026-05-18	None	SAMN50511123
+GCA_027077755.1	Lentisphaeria bacterium	2022-12-19	None	SAMN27358592
+GCA_057039445.1	Victivallis sp.	2026-04-29	None	SAMN50509544

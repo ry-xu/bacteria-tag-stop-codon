@@ -1,0 +1,5 @@
+contig	strand	codon_start	codon	best_query	query_pos	query_residue	bitscore	evalue	qlen	qstart	qend	contig_len	codons_to_hsp_edge
+NC_000964.3	-1	3377432	TAG	Bs|fabG|P51831	106	W	157.0	1.07e-44	246	4	246	4215606	105
+NC_000964.3	-1	4199447	TAA	Ec|rpsF|P02358	95	A	65.5	3.74e-14	135	1	105	4215606	10
+NC_000964.3	1	1748	TAG	Ec|dnaA|P03004	None	-	354.0	1.29e-109	467	3	467	4215606	22
+NC_000964.3	1	130628	TAG	Ec|rpsG|P02359	157	L	199.0	1.78e-60	179	1	159	4215606	2

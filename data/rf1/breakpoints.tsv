@@ -1,0 +1,11 @@
+lineage	acc	contig	upstream_gene	upstream_coords	downstream_gene	downstream_coords	gap_nt	relatives_order	relative_example	note
+L1	GCA_949290385.1	CASERY010000043.1 (13.6 kb)	bL31	944-1147 (+)	ywjA-like ABC ATPase	1550-3355 (+)	402	bL31-prfA-ywjA (5 of 6 family relatives checked)	see data/independent_checks/recheck/prfA_neighbors_vs_GCA_949290385.1.tsv	prfA excised; contig continues past both genes
+L1	GCA_965332555.1	-	-	-	-	-	-	-	-	no RF1 anywhere; ywjA ortholog sits after groES-groEL (rearranged); bL31 not in bin
+L2	GCA_024404275.1	JAKSQG010000017.1	lepA	17220-19028 (+)	topIII	19047-19595 (+)	18	lepA-prfA-topIII	GCA_934796175.1 CAKVOV010000023.1: lepA 29280-31085, RF1 31100-32170, topIII 33017-35212	gap 21-22 bp in recheck2's tblastn-based calls; this table uses pyrodigal table-15 calls (src/rf1_locus.py)
+L2	GCA_045599485.1	JAZRWA010000035.1	lepA	58961-60769 (+)	topIII	60787-62970 (+)	17	lepA-prfA-topIII	as above	
+L3	GCA_937907055.1	CALCTW010000132.1 (83.6 kb)	prmC	76453-77283 (-)	glycoside hydrolase (GUNA-like)	74561-76282 (-)	170	yqhQ-prmC-prfA	GCA_017577285.1 PITV01000001.1: prmC 52115-52945, RF1 52981-54045	same junction in an independent assembly (next row)
+L3	GCA_045628485.1	JAZQPK010000024.1	prmC	5061-5891 (-)	glycoside hydrolase (GUNA-like)	3169-4890 (-)	170	yqhQ-prmC-prfA	as above	
+L4	GCA_030526225.1	JAUNDF010000010.1 (38 kb)	prmC	23166-24008 (+)	sua5	24039-25091 (+)	30	prmC-prfA-sua5	CAKUFA01 GCA_030529995.1	prfA (~1.08 kb) cleanly removed; RF2 also missing from this bin, so the junction (not RF1 absence) is the evidence
+L5	GCA_056261325.1	JBACEE010000374.1	prmC	115-936 (+)	CUA tRNA, then mgsA	tRNA 950-1023 (+); mgsA 1081-1491 (-)	13 (to tRNA)	prmC-prfA-mgsA	GCA_045640465.1 JAZUFC010000276.1: prmC 1315-2082, RF1 2058-3131, mgsA 3190-3600	the UAG-reading tRNA sits where prfA was
+L5	GCA_056232285.1	-	-	-	-	-	-	prmC-prfA-mgsA	-	prmC split over two contig ends; no prfA anywhere
+L6	GCA_056209055.1	JBAEHL010000065.1	prmC	32599-33321 (+)	RF1-like (decayed)	33352-34416 (+)	30	bL31-yqhQ-prmC-prfA-sua5	CAKUFA01	RF1 present at native locus: 43% to Swiss-Prot RF1, PxT motif reads PAH; identical in QTP_TA20190011_bin.237 and QTP_TA20190013_bin.296 (contig_000213)

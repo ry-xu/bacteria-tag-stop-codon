@@ -1,0 +1,6 @@
+GCA_056209055.1_comp: 213 TAG sites with reads in 2 runs; 209 covered (>= 3 reads) in >= 1 run (by number of runs: {1: 15, 2: 194})
+  TAG fixed (>= 90% of reads) in every covering run: 165; in at least one: 195; TAG <= 10% in any run: 2
+  sites with an alternative codon in >= 2 reads of one run: 21 -> [('CAG', 9), ('TGG', 8), ('TAC', 2), ('GAG', 2)]
+GCA_045599485.1_comp: 523 TAG sites with reads in 2 runs; 384 covered (>= 3 reads) in >= 1 run (by number of runs: {1: 261, 2: 123})
+  TAG fixed (>= 90% of reads) in every covering run: 351; in at least one: 361; TAG <= 10% in any run: 0
+  sites with an alternative codon in >= 2 reads of one run: 14 -> [('GAG', 9), ('AAG', 2), ('TGG', 1), ('CAG', 1), ('TCG', 1)]

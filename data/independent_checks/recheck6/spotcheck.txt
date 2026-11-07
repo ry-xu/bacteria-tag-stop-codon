@@ -1,0 +1,47 @@
+== TAG|JBAEHL010000036.1|11197|1 window: 
+  TRMB_CLOBB             id  48  cand YFMTDPVSLRGRXADQFEVRQPLHL
+                                 sprot FFIVNPKENKGKWNESFNNENPIYL
+  TRMB_RUMCH             id  48  cand YFMTDPVSLRGRXADQFEVRQPLHL
+                                 sprot FYVDDPPSYKGRWREFFDNSNPIHL
+  TRMB_CLOBA             id  49  cand YFMTDPVSLRGRXADQFEVRQPLHL
+                                 sprot FFIVNPKENKGKWKESFNNENPIYL
+== TAG|JBAEHL010000073.1|7077|-1 window: 
+  REGX3_MYCS2            id  44  cand QVLSRTTLMDRVXGGEFPKENRTLD
+                                 sprot RVLTRGQLIDRVWGADYVGDTKTLD
+  REGX3_MYCBO            id  44  cand QVLSRTTLMDRVXGGEFPKENRTLD
+                                 sprot RVLTRGQLIDRVWGADYVGDTKTLD
+  REGX3_MYCTO            id  44  cand QVLSRTTLMDRVXGGEFPKENRTLD
+                                 sprot RVLTRGQLIDRVWGADYVGDTKTLD
+== TAG|JBAEHL010000138.1|6101|-1 window: 
+  INH21_ECOLI            id  57  cand DPEMHQTKEKNEXKLGMKCHIGVDA
+                                 sprot DPEMHQTKKGNQWHFGMKAHIGVDA
+  INSH1_ECOLI            id  57  cand DPEMHQTKEKNEXKLGMKCHIGVDA
+                                 sprot DPEMHQTKKGNQWHFGMKAHIGVDA
+  INSH2_ECOLI            id  57  cand DPEMHQTKEKNEXKLGMKCHIGVDA
+                                 sprot DPEMHQTKKGNQWHFGMKAHIGVDA
+== TAG|JBAEHL010000036.1|9098|1 window: 
+  Y3407_BACVZ            id  53  cand QPKAGGSVPAAAXKLLDKPALAMAI
+                                 sprot VPKAGGAMASYAYRQMRSPVLAESI
+  Y3990_BACLD            id  53  cand QPKAGGSVPAAAXKLLDKPALAMAI
+                                 sprot VPKAGGSMASYAYKHMKAPVLVEQI
+  YWLG_BACSU             id  51  cand QPKAGGSVPAAAXKLLDKPALAMAI
+                                 sprot VPKAGGAMASYAFKQMKSPVLVETI
+== TAG|JBAEHL010000202.1|8055|-1 window: 
+  BGAL_ALIAD             id  50  cand LGQMSNLGMRMDXQRFSTWQCKDFI
+                                 sprot HGETSIHGLNLDWKRFVTDQTVDFC
+  BGAL2_BACLD            id  43  cand LGQMSNLGMRMDXQRFSTWQCKDFI
+                                 sprot IGENAVHGLNLDWRRFVTDQTISFF
+  BGAL2_BACSU            id  43  cand LGQMSNLGMRMDXQRFSTWQCKDFI
+                                 sprot IGENGLHGLNLDWRRFVTDQTISFY
+== TAG|JBAEHL010000084.1|20111|-1 window: 
+  MURE_GEOKA             id  40  cand VEISAITCKSKEXVTDGLFFCIPGT
+                                 sprot PDIVALEMDSRRVASGSLFFCLKGF
+  MURE_BACSU             id  37  cand VEISAITCKSKEXVTDGLFFCIPGT
+                                 sprot PEITSIEMDSREVKKGSLFVCVKGY
+  MURE_HALH5             id  40  cand VEISAITCKSKEXVTDGLFFCIPGT
+                                 sprot IH--SIHMDSREVVEGGLFFCIKGY
+== TAG|JBAEHL010000098.1|4729|-1 window: 
+  YRAN_BACSU             id  32  cand DGEEFVAYARQVXSQYESMMDRYGN
+                                 sprot EGEHLVAYARRMLQELQDTKDHISN
+  TSAR_COMTE             id  42  cand DGEEFVAYARQVXSQYESMMDRYG
+                                 sprot FGQAFMKHARLIVTESRRAQEEIG

@@ -1,0 +1,8 @@
+GCA_056209055.1 reads from CRR939061 (first 20000000 spots): 167494 mapped reads (<= 3% mismatches); mapped competitively with GCA_045599485.1
+in-frame TAG sites: 213; covered by >= 3 reads: 203 (median depth 8)
+TAG in >= 90% of reads: 172; mixed: 30; TAG in <= 10%: 1
+other codons at non-fixed TAG sites: [('TGG', 26), ('CAG', 18), ('TAC', 5), ('GAG', 4), ('TTG', 2), ('AAG', 1)]
+control:
+in-frame TGG sites: 12812; covered by >= 3 reads: 12198 (median depth 8)
+TGG in >= 90% of reads: 11880; mixed: 316; TGG in <= 10%: 2
+other codons at non-fixed TGG sites: [('GGG', 141), ('TGC', 67), ('AGG', 53), ('TGA', 28), ('CGG', 23), ('TGT', 17), ('TCG', 16), ('TAG', 14), ('TTG', 5), ('CAG', 2)]

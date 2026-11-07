@@ -1,0 +1,4 @@
+contig	strand	codon_start	codon	best_query	query_pos	query_residue	bitscore	evalue	qlen	qstart	qend	contig_len	codons_to_hsp_edge
+CAKUDG010000003.1	-1	69869	TAA	Bs|rplM|P70974	144	R	134.0	2.35e-38	145	4	145	180257	1
+CAKUDG010000006.1	1	74773	TAA	Bs|rplV|P42060	111	K	103.0	7.33e-28	113	1	112	126202	1
+CAKUDG010000033.1	1	17784	TAA	Ec|trpS|P00954	332	A	217.0	3e-64	334	3	334	26822	2

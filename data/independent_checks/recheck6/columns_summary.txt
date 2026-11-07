@@ -1,0 +1,2 @@
+GCA_056209055.1 TAG: 16 sites with >= 5 Swiss-Prot hits at the column; majority residue [('W', 4), ('F', 3), ('A', 2), ('-', 1), ('V', 1), ('L', 1), ('G', 1), ('H', 1)]; W in >= 80% of hits: 4 (25%); W in 20-80%: 1; mean W fraction 0.27
+GCA_056209055.1 TGG: 63 sites with >= 5 Swiss-Prot hits at the column; majority residue [('W', 18), ('L', 8), ('Y', 5), ('A', 5), ('F', 3), ('I', 3), ('D', 3), ('N', 3)]; W in >= 80% of hits: 13 (21%); W in 20-80%: 10; mean W fraction 0.28

@@ -1,0 +1,23 @@
+##### GCA_045640465.1  controls=GCA_902803485.1,GCA_017959345.1  sister=GCA_902803485.1
+1. sites aligned in >=2 controls: 141543; unanimous: 99702
+   test CAG      sites=  4077 unanimous=  2541 (62%) | among unanimous: Q:80.4% E:6.0% R:2.5% K:2.1% A:1.5% L:1.0%
+   test CAA      sites=    34 unanimous=    21 (62%) | among unanimous: Q:57.1% E:19.0% P:4.8% R:4.8% T:4.8% A:4.8%
+   test GAG      sites=  4755 unanimous=  3016 (63%) | among unanimous: E:88.7% D:4.3% A:1.5% K:1.0% Q:0.9% P:0.7%
+   test GAA      sites=  5529 unanimous=  3444 (62%) | among unanimous: E:87.7% D:4.6% A:1.7% R:1.0% G:0.8% P:0.8%
+   test AAR(K)   sites=  8289 unanimous=  4965 (60%) | among unanimous: K:81.5% R:9.0% E:1.7% A:1.6% G:0.9% P:0.9%
+   test GAY(D)   sites=  8417 unanimous=  6045 (72%) | among unanimous: D:88.9% E:5.5% N:1.3% G:1.0% S:0.6% A:0.6%
+   test CGN+AGR  sites=  7103 unanimous=  5184 (73%) | among unanimous: R:90.8% K:4.0% A:0.7% E:0.6% G:0.5% Q:0.4%
+   test TGG(W)   sites=   954 unanimous=   809 (85%) | among unanimous: W:94.9% Y:2.6% F:0.9% C:0.2% L:0.2% S:0.2%
+   test TAY(Y)   sites=  5495 unanimous=  4183 (76%) | among unanimous: Y:91.8% F:4.1% H:0.7% L:0.6% W:0.4% R:0.4%
+   test TTR(L)   sites=   635 unanimous=   466 (73%) | among unanimous: L:89.7% I:2.1% F:2.1% M:1.9% V:1.9% R:0.6%
+   test TAG      sites=     4 unanimous=     2 (50%) | among unanimous: *:100.0%
+2. TAG enrichment (log2 obs/exp) by unanimous control residue (n_TAG=0): W:+2.6 C:+1.9 H:+1.3 Q:+1.1 M:+1.0 N:+0.5
+   Pearson r of TAG enrichment vector vs each amino acid codon family: W:0.74 Y:0.32 H:0.28 F:0.22 C:0.20 M:0.09 ... E:-0.33  (Q-family n=2562, E-family n=6460)
+3. LL of 0 unanimous TAG-site residues; delta vs best: A:0.0  C:0.0  D:0.0  E:0.0  F:0.0 | LL(Q)-LL(E)=0.0  LL(Q)-LL(bg)=0.0  LL(E)-LL(bg)=0.0
+4. sister GCA_902803485.1: codon at the orthologous position (strict columns)
+   T TAG  n=     7: sister TAG 57.1%  CAR(Q) 0.0%  GAR(E) 0.0%  AAR(K) 0.0%  other 42.9% | top: TAG:4 TTT:1 TAA:1 TGG:1
+   T CAG  n=  7268: sister TAG 0.0%  CAR(Q) 57.5%  GAR(E) 8.6%  AAR(K) 5.4%  other 28.5% | top: CAG:4133 GAA:334 GAG:293 AAG:248 CGG:155
+   T CAA  n=    98: sister TAG 0.0%  CAR(Q) 38.8%  GAR(E) 11.2%  AAR(K) 11.2%  other 38.8% | top: CAG:35 AAG:7 GAA:7 GAG:4 CTG:4
+   T GAG  n=  8380: sister TAG 0.0%  CAR(Q) 3.1%  GAR(E) 65.9%  AAR(K) 3.3%  other 27.8% | top: GAG:2997 GAA:2528 GAC:371 GAT:371 CAG:250
+   T GAA  n= 10120: sister TAG 0.0%  CAR(Q) 3.3%  GAR(E) 63.9%  AAR(K) 3.5%  other 29.3% | top: GAA:3929 GAG:2539 GAC:497 GAT:419 CAG:318
+   T all  n=258325: sister TAG 0.0%  CAR(Q) 2.8%  GAR(E) 7.1%  AAR(K) 5.1%  other 85.1% | top: ATC:14284 CTG:14236 GGC:10343 GCG:10214 GAA:9884

@@ -1,0 +1,2 @@
+QTP_TA20190011_bin.237: candidate TAG sites 212; found in bin 163; codon there: [('TAG', 161), ('CAG', 1), ('TGG', 1)]
+QTP_TA20190013_bin.296: candidate TAG sites 212; found in bin 201; codon there: [('TAG', 200), ('CAG', 1)]

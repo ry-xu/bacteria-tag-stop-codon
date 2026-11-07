@@ -1,0 +1,9 @@
+GCA_056261325.1  test codon TAG  (homologs >= 8; majority residue per column)
+  agreement 0.0-0.5: test n=  90 (0.81 per 1000 codons)  best: Q+0.0, K-1.5, S-2.5, H-3.0, R-3.4
+      majority residues: [('L', 10), ('K', 9), ('E', 9), ('S', 8), ('V', 7), ('Q', 7), ('G', 5), ('I', 5)]
+  agreement 0.5-0.7: test n=  24 (0.51 per 1000 codons)  best: Q+0.0, E-5.1, K-5.4, D-7.7, N-8.0
+      majority residues: [('Q', 6), ('K', 4), ('E', 3), ('D', 3), ('T', 2), ('I', 1), ('F', 1), ('V', 1)]
+  agreement 0.7-0.9: test n=  26 (0.89 per 1000 codons)  best: Q+0.0, E-1.8, A-3.8, G-4.1, S-5.4
+      majority residues: [('G', 5), ('E', 4), ('A', 3), ('Q', 3), ('V', 2), ('I', 2), ('K', 1), ('D', 1)]
+  agreement 0.9-1.0: test n=   4 (0.18 per 1000 codons)  best: Q+0.0, K-1.4, R-7.5, E-7.9, S-8.1
+      majority residues: [('Q', 2), ('K', 2)]

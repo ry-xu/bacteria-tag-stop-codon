@@ -1,0 +1,37 @@
+coordinate/strand check: reference codon == TAG at 815 site-rows, != TAG at 0
+  strands of sites: Counter({1: 108, -1: 104})
+
+polymorphic sites (alt codon in >= 2 reads of one run): 22; alt codons per site: Counter({'CAG': 10, 'TGG': 9, 'AAG': 1, 'TAC': 1, 'GAG': 1})
+contig	pos0	strand	per-run codons	gene_end(table11)	relative residue (strict | loose)
+JBAEHL010000022.1	4817	1	05:TAG1 | 13:CAG2 | 08:CAG2,TAG1	END	- | ('TAG', 'Q', 'GCA_056207115.1', '105', '191')
+JBAEHL010000024.1	10872	1	05:TAG4 | 13:TAG7 | 11:TAG2,CAG1 | 08:TAG6,CAG2	END	- | -
+JBAEHL010000035.1	16531	-1	05:TAG3,CAG1 | 13:TAG5,CAG1 | 11:TAG6 | 08:TAG7,CAG3	END	- | -
+JBAEHL010000036.1	22598	1	05:TAG2,TGG2 | 13:TAG5,TGG2 | 11:TAG2 | 08:TAG5	END	('TAG', 'E', 'GCA_056207115.1', '75', '309') | ('TAG', 'E', 'GCA_056207115.1', '75', '309')
+JBAEHL010000041.1	23338	-1	05:CAG1,TAG1 | 13:TAG2,CAG2 | 11:TAG2 | 08:TAG3	END	- | -
+JBAEHL010000049.1	2831	1	05:TAG2 | 13:TAG7 | 11:TAG4,TGG2 | 08:TAG2	END	('TAG', 'W', 'GCA_056207115.1', '137', '288') | ('TAG', 'W', 'GCA_056207115.1', '137', '288')
+JBAEHL010000059.1	3644	-1	05:TGG6,TAG1 | 13:TGG3,TAG2 | 11:TGG2 | 08:TAG1	END	- | -
+JBAEHL010000064.1	26779	-1	05:TAG3 | 13:TAG6 | 11:TAG7,CAG2 | 08:TAG3	END	('TAG', 'M', 'GCA_056207115.1', '142', '221') | ('TAG', 'M', 'GCA_056207115.1', '142', '221')
+JBAEHL010000084.1	20111	-1	05:TAG5 | 13:TAG7,CAG2 | 11:TAG3 | 08:TAG4,CAG1	END	('TAG', 'Q', 'GCA_056207115.1', '35', '492') | ('TAG', 'Q', 'GCA_056207115.1', '35', '492')
+JBAEHL010000084.1	22783	-1	05:CAG2,TAG1,TGG1 | 13:TAG4 | 11:TAG1 | 08:CAG2	END	- | -
+JBAEHL010000084.1	60585	1	05:TAG3,CAG2,TTG1 | 13:TAG11 | 11:TAG4,CAG1 | 08:TAG4	internal	- | -
+JBAEHL010000086.1	29645	-1	05:TAG4 | 13:TAG2 | 08:TAG4,AAG2	END	- | -
+JBAEHL010000087.1	25301	-1	13:TAG4 | 11:TGG2 | 08:TAG5	END	- | -
+JBAEHL010000090.1	4410	1	05:TAG3,TGG1 | 13:TAG1 | 11:TGG3,TAG1 | 08:TAG6	END	- | -
+JBAEHL010000094.1	1642	1	05:TAG4 | 13:TAG5,TGG1 | 11:TAG5,TGG1 | 08:TAG5,TGG2	internal	('TAG', 'W', 'GCA_056207115.1', '29', '326') | ('TAG', 'W', 'GCA_056207115.1', '29', '326')
+JBAEHL010000105.1	9176	1	05:TAG3,TGG1 | 13:TAG4,TGG1 | 11:TAG1 | 08:TAG4,TGG3	internal	- | -
+JBAEHL010000123.1	30954	-1	05:TAG2 | 13:TAG3,CAG2 | 08:TAG7,TTG1	internal	('TAG', 'D', 'GCA_056207115.1', '25', '427') | ('TAG', 'D', 'GCA_056207115.1', '25', '427')
+JBAEHL010000124.1	34170	1	05:TAG7 | 13:TAG5 | 11:TAC2,TAG1,TAA1 | 08:TAG4	END	- | -
+JBAEHL010000128.1	2240	1	05:TAG3 | 13:TAG4,CAG2 | 11:CAG3,TAG1 | 08:TAG3,CAG1	END	- | -
+JBAEHL010000147.1	3131	1	05:TAG6 | 13:TAG7 | 11:TAG5,TGG1 | 08:TGG2,TAG1	END	('TAG', 'W', 'GCA_056207115.1', '951', '1189') | ('TAG', 'W', 'GCA_056207115.1', '951', '1189')
+JBAEHL010000182.1	9834	-1	05:TAG4,TGG1 | 13:TAG3 | 11:TAG6,TGG2 | 08:TAG8	END	('TAG', 'W', 'GCA_056207115.1', '147', '660') | ('TAG', 'W', 'GCA_056207115.1', '147', '660')
+JBAEHL010000193.1	12797	1	05:TAG3,GAG3 | 13:TAG7 | 11:TAG5 | 08:TAG2	internal	('TAG', 'E', 'GCA_056207115.1', '28', '323') | ('TAG', 'E', 'GCA_056207115.1', '28', '323')
+
+all TAG sites with reads: 212; table-11 gene terminal stops: 167, internal: 45
+  with a relative's residue (strict tblastn filter): 45; loose: 54
+  fixed in every covering run: 158; of those END 125
+  polymorphic: END 17 internal 5
+  polymorphic: relative residue (loose) [('W', 4), ('E', 2), ('Q', 2), ('D', 1), ('M', 1)]
+  non-polymorphic: relative residue (loose) [('W', 24), ('Y', 7), ('F', 2), ('G', 1), ('-', 1), ('T', 1), ('K', 1), ('V', 1), ('L', 1), ('D', 1), ('S', 1), ('C', 1), ('E', 1), ('A', 1)]
+
+TAG sites, alt codon seen in exactly 1 read of a run (site-runs): [('TGG', 27), ('CAG', 10), ('GAG', 9), ('TAC', 6), ('TTG', 4), ('TAT', 2), ('TAA', 2), ('AAG', 1)]
+TAG sites, alt codon seen in >= 2 reads of a run (site-runs): [('CAG', 13), ('TGG', 12), ('AAG', 1), ('TAC', 1), ('GAG', 1)]

@@ -1,0 +1,5 @@
+contig	strand	codon_start	codon	best_query	query_pos	query_residue	bitscore	evalue	qlen	qstart	qend	contig_len	codons_to_hsp_edge
+NC_000913.3	-1	1490599	TAA	Bs|gapA|P09124	39	N	247.0	1.02e-76	335	4	251	4641652	36
+NC_000913.3	-1	3335237	TAA	Bs|murAA|P70965	421	S	353.0	6.68e-110	436	1	425	4641652	4
+NC_000913.3	-1	3602746	TGA	Bs|ffh|P37105	None	-	154.0	3.64e-41	446	67	300	4641652	14
+NC_000913.3	-1	3602752	TAA	Bs|ffh|P37105	None	-	154.0	3.64e-41	446	67	300	4641652	16

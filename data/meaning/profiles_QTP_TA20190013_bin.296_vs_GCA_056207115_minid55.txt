@@ -1,0 +1,20 @@
+QTP_TA20190013_bin.296: test codon TAG, orthologs >= 55.0% identity; 52 test sites, 499800 background sites
+  residue  test%   background%  enrichment
+    W      46.2     1.1       41.87
+    Y       7.7     3.4       2.27
+    A       7.7    10.0       0.77
+    F       5.8     3.6       1.62
+    E       5.8     6.1       0.95
+    R       3.8     5.5       0.69
+    D       3.8     5.9       0.65
+    M       3.8     3.5       1.09
+    T       1.9     5.6       0.34
+    V       1.9     7.6       0.25
+  log-likelihood of the test sites' orthologous residues, relative to best:
+    W +0, background(any codon) -71, Y -90, F -106, Q -110, A -114, E -115, D -117
+  mixture weights (EM): W 0.65, Y 0.08, A 0.06, E 0.06, F 0.05, M 0.04, R 0.03   [logL +9 vs best single]
+  calibration GCC (A): n=27132, orthologous residue A 62%, S 4%, V 3%
+  calibration GCG (A): n=10137, orthologous residue A 59%, V 5%, S 4%
+  calibration CAG (Q): n=17022, orthologous residue Q 52%, E 6%, A 6%
+  calibration AAG (K): n=18419, orthologous residue K 61%, R 7%, A 4%
+  calibration TGG (W): n=5608, orthologous residue W 65%, L 4%, A 3%

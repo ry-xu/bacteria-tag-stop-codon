@@ -1,0 +1,104 @@
+
+===== GCA_056232285.1 vs GCA_045640465.1,GCA_902803485.1,GCA_017959345.1  set=census
+A. TAG sites with >=1 control aligned: 107
+   vs GCA_045640465.1: n=98 Q:49 E:13 R:6 S:5 G:4 K:3 L:3 A:3 D:3 N:2 I:2 M:1
+   vs GCA_902803485.1: n=94 Q:42 E:8 S:6 D:5 R:4 K:4 G:4 M:4 A:4 L:3 H:3 N:2
+   vs GCA_017959345.1: n=98 Q:36 E:15 K:8 A:8 R:7 D:5 V:4 G:3 L:2 S:2 P:2 T:1
+   per-site majority over controls: n=107 Q:46 mixed:23 E:10 R:4 K:3 L:3 S:3 D:3 A:3 G:2 M:1 C:1 I:1 V:1
+   control codons at TAG sites (pooled): n=290 CAG:125 GAG:22 GAA:14 AAG:14 CGG:10 GAC:8 GCG:7 ATG:6 GAT:5 GGG:5 ATC:4 CTT:4
+B. calibration (pooled over controls; share of control residue):
+   test GAG     (E): n=  5376 E:63.0% D:8.6% A:4.9% Q:3.6% K:3.4%
+   test GAA     (E): n=  7904 E:64.7% D:8.9% A:4.8% K:3.1% Q:2.9%
+   test CAG     (Q): n=  4303 Q:58.6% E:8.3% K:5.5% A:4.9% R:4.5%
+   test CAA     (Q): n=   214 Q:34.6% E:12.6% R:12.6% K:6.5% L:4.2%
+   test GAT/GAC (D): n=  9854 D:70.0% E:11.0% N:3.1% G:2.4% A:2.3%
+   test AAG/AAA (K): n= 11884 K:60.0% R:12.9% E:4.4% A:3.3% S:2.5%
+   test TAT/TAC (Y): n=  5310 Y:75.8% F:9.2% L:2.4% H:1.6% V:1.1%
+   test TGG     (W): n=   785 W:78.7% F:3.8% Y:3.1% L:2.3% A:1.8%
+   test TTG     (L): n=  3683 L:74.9% I:6.1% M:3.7% V:3.5% F:2.3%
+   test TCG     (S): n=  1122 S:52.0% A:9.7% T:7.0% E:4.6% R:3.9%
+   test AGG     (R): n=   113 R:47.8% K:14.2% N:6.2% G:4.4% E:4.4%
+   test TTA     (L): n=   713 L:74.6% I:6.2% V:4.6% M:4.5% F:1.5%
+   test TAG     (?): n=   290 Q:43.8% E:12.4% R:5.9% K:5.2% A:5.2% S:4.5% D:4.5% G:3.8%
+C. LL of 290 TAG-site control residues (pooled); delta vs best: Q:0.0  bg:-276.8  E:-315.1  K:-389.6  S:-443.7  N:-456.9 | E-Q=-315.1 E-bg=-38.2 Q-bg=276.8
+C. LL of 107 TAG-site control residues (one-per-site); delta vs best: Q:0.0  bg:-113.1  E:-121.9  K:-158.9  S:-175.5  N:-179.2 | E-Q=-121.9 E-bg=-8.8 Q-bg=113.1
+   bootstrap 95% CI (sites resampled): E-Q [-158.5, -85.5]  E-bg [-31.4, 13.3]
+D. EM mixture weights (one residue per site): Q:0.77 E:0.08 D:0.04 S:0.03 L:0.02 G:0.01
+
+===== GCA_056232285.1 vs GCA_045640465.1,GCA_902803485.1,GCA_017959345.1  set=coding
+A. TAG sites with >=1 control aligned: 445
+   vs GCA_045640465.1: n=323 Q:156 E:29 K:22 S:17 A:16 L:12 R:12 D:10 G:8 M:8 H:7 Y:7
+   vs GCA_902803485.1: n=309 Q:136 E:34 A:18 K:16 S:15 R:14 M:13 D:11 G:10 T:8 L:7 H:5
+   vs GCA_017959345.1: n=299 Q:130 E:26 R:22 A:15 S:14 K:14 T:13 G:11 V:9 D:7 M:7 L:6
+   per-site majority over controls: n=445 Q:174 mixed:92 E:38 A:19 K:17 R:17 S:16 G:13 L:9 T:8 D:6 M:6 P:6 V:5
+   control codons at TAG sites (pooled): n=931 CAG:418 GAG:59 AAG:35 GAA:30 ATG:28 GCG:25 GAC:20 CGG:20 AAA:17 TCC:16 ACG:14 TCG:14
+B. calibration (pooled over controls; share of control residue):
+   test GAG     (E): n= 15794 E:64.8% D:8.2% A:4.5% Q:3.6% K:3.1%
+   test GAA     (E): n= 21811 E:65.0% D:8.7% A:4.3% Q:3.3% K:3.1%
+   test CAG     (Q): n= 12672 Q:57.7% E:7.7% K:5.1% R:4.7% A:4.2%
+   test CAA     (Q): n=   812 Q:33.5% E:11.1% R:10.2% K:7.0% S:6.0%
+   test GAT/GAC (D): n= 28882 D:71.3% E:10.3% N:3.2% G:2.6% S:2.4%
+   test AAG/AAA (K): n= 32829 K:57.3% R:13.6% E:5.1% A:3.6% Q:2.8%
+   test TAT/TAC (Y): n= 18999 Y:77.3% F:9.1% L:2.1% H:1.5% W:1.0%
+   test TGG     (W): n=  3474 W:80.5% Y:4.5% F:4.4% L:1.9% R:1.2%
+   test TTG     (L): n= 11819 L:74.9% I:6.5% V:4.2% M:4.0% F:2.4%
+   test TCG     (S): n=  3928 S:54.4% A:10.8% T:7.4% E:4.3% G:3.2%
+   test AGG     (R): n=   440 R:57.3% K:13.0% E:4.1% H:3.2% A:3.2%
+   test TTA     (L): n=  2357 L:71.0% I:8.1% M:4.8% V:4.5% F:2.7%
+   test TAG     (?): n=   931 Q:45.3% E:9.6% K:5.6% A:5.3% R:5.2% S:4.9% G:3.1% M:3.0%
+C. LL of 931 TAG-site control residues (pooled); delta vs best: Q:0.0  bg:-956.7  E:-1134.6  K:-1203.6  S:-1542.8  R:-1556.2 | E-Q=-1134.6 E-bg=-177.9 Q-bg=956.7
+C. LL of 445 TAG-site control residues (one-per-site); delta vs best: Q:0.0  bg:-413.8  E:-493.6  K:-535.0  S:-674.1  R:-715.4 | E-Q=-493.6 E-bg=-79.8 Q-bg=413.8
+   bootstrap 95% CI (sites resampled): E-Q [-559.2, -424.7]  E-bg [-126.0, -29.3]
+D. EM mixture weights (one residue per site): Q:0.73 E:0.06 S:0.06 K:0.03 G:0.02 A:0.02
+
+===== GCA_056232285.1 vs GCA_045640465.1,GCA_902803485.1,GCA_017959345.1  set=strict
+A. TAG sites with >=1 control aligned: 450
+   vs GCA_045640465.1: n=327 Q:157 E:29 K:22 S:17 A:16 L:12 R:12 D:10 G:8 M:8 Y:8 H:7
+   vs GCA_902803485.1: n=311 Q:136 E:34 A:18 K:16 R:15 S:15 M:13 D:11 G:10 T:8 L:7 H:5
+   vs GCA_017959345.1: n=301 Q:132 E:25 R:22 A:15 S:14 K:14 T:13 G:11 V:9 D:7 M:7 L:5
+   per-site majority over controls: n=450 Q:175 mixed:93 E:38 A:19 R:18 K:17 S:16 G:13 T:8 L:8 D:6 M:6 V:5 H:5
+   control codons at TAG sites (pooled): n=939 CAG:420 GAG:58 AAG:35 GAA:30 ATG:28 GCG:25 GAC:20 CGG:20 AAA:17 TCC:16 ACG:14 TCG:14
+B. calibration (pooled over controls; share of control residue):
+   test GAG     (E): n= 15820 E:64.8% D:8.2% A:4.5% Q:3.6% K:3.1%
+   test GAA     (E): n= 21821 E:65.0% D:8.7% A:4.3% Q:3.3% K:3.1%
+   test CAG     (Q): n= 12686 Q:57.8% E:7.7% K:5.1% R:4.7% A:4.2%
+   test CAA     (Q): n=   831 Q:34.9% E:10.5% R:10.1% K:7.0% S:5.9%
+   test GAT/GAC (D): n= 28898 D:71.3% E:10.3% N:3.2% G:2.6% S:2.4%
+   test AAG/AAA (K): n= 32853 K:57.3% R:13.6% E:5.1% A:3.6% Q:2.8%
+   test TAT/TAC (Y): n= 19018 Y:77.2% F:9.1% L:2.1% H:1.6% W:1.0%
+   test TGG     (W): n=  3487 W:80.5% Y:4.5% F:4.4% L:1.8% R:1.1%
+   test TTG     (L): n= 11828 L:74.9% I:6.5% V:4.2% M:4.0% F:2.4%
+   test TCG     (S): n=  3960 S:54.4% A:10.8% T:7.3% E:4.2% G:3.3%
+   test AGG     (R): n=   457 R:56.9% K:12.9% E:4.2% A:3.5% H:3.1%
+   test TTA     (L): n=  2362 L:70.8% I:7.7% M:4.7% V:4.5% F:2.9%
+   test TAG     (?): n=   939 Q:45.3% E:9.4% K:5.5% R:5.2% A:5.2% S:4.9% G:3.1% M:3.0%
+C. LL of 935 TAG-site control residues (pooled); delta vs best: Q:0.0  bg:-961.6  E:-1144.9  K:-1210.7  S:-1553.6  R:-1562.3 | E-Q=-1144.9 E-bg=-183.3 Q-bg=961.6
+C. LL of 447 TAG-site control residues (one-per-site); delta vs best: Q:0.0  bg:-415.6  E:-497.0  K:-536.9  S:-679.0  R:-715.8 | E-Q=-497.0 E-bg=-81.4 Q-bg=415.6
+   bootstrap 95% CI (sites resampled): E-Q [-566.6, -427.8]  E-bg [-128.4, -32.7]
+D. EM mixture weights (one residue per site): Q:0.73 E:0.06 S:0.06 K:0.03 G:0.02 A:0.02
+
+===== GCA_056232285.1 vs GCA_045640465.1,GCA_902803485.1,GCA_017959345.1  set=genome
+A. TAG sites with >=1 control aligned: 559
+   vs GCA_045640465.1: n=413 Q:176 E:40 K:30 A:22 S:21 R:18 L:14 D:13 G:12 Y:9 H:8 M:8
+   vs GCA_902803485.1: n=396 Q:157 E:45 A:22 K:20 R:20 S:17 G:15 M:14 D:13 T:11 L:11 N:10
+   vs GCA_017959345.1: n=390 Q:153 E:37 R:29 A:24 K:20 S:20 T:15 G:12 V:12 D:12 L:10 M:8
+   per-site majority over controls: n=559 Q:194 mixed:125 E:46 K:25 A:23 R:21 S:16 L:15 G:12 T:10 P:10 *:9 D:9 I:8
+   control codons at TAG sites (pooled): n=1199 CAG:480 GAG:74 GAA:48 AAG:48 GCG:34 ATG:30 CGG:29 GAC:26 AAA:22 ACG:19 TCG:19 CTG:17
+B. calibration (pooled over controls; share of control residue):
+   test GAG     (E): n= 19406 E:60.4% D:8.6% A:5.0% Q:3.8% K:3.5%
+   test GAA     (E): n= 26980 E:60.6% D:9.0% A:4.8% K:3.5% Q:3.5%
+   test CAG     (Q): n= 15138 Q:53.0% E:8.4% K:5.5% R:5.3% A:4.6%
+   test CAA     (Q): n=  1125 Q:33.0% E:10.6% R:10.0% K:6.9% S:5.7%
+   test GAT/GAC (D): n= 35014 D:67.5% E:11.0% N:3.5% G:3.0% S:2.8%
+   test AAG/AAA (K): n= 40227 K:52.9% R:14.0% E:5.8% A:4.0% Q:3.2%
+   test TAT/TAC (Y): n= 23309 Y:73.1% F:9.6% L:2.7% H:1.7% V:1.3%
+   test TGG     (W): n=  4390 W:75.4% F:4.8% Y:4.8% L:3.0% A:1.5%
+   test TTG     (L): n= 14548 L:71.0% I:7.0% V:4.9% M:4.2% F:3.0%
+   test TCG     (S): n=  4941 S:49.8% A:11.1% T:7.9% E:4.9% G:3.6%
+   test AGG     (R): n=   663 R:52.0% K:12.2% E:5.1% A:4.1% S:3.2%
+   test TTA     (L): n=  3088 L:66.0% I:8.4% M:5.2% V:5.0% F:3.2%
+   test TAG     (?): n=  1199 Q:40.5% E:10.2% K:5.8% A:5.7% R:5.6% S:4.8% G:3.3% D:3.2%
+C. LL of 1185 TAG-site control residues (pooled); delta vs best: Q:0.0  bg:-1049.8  E:-1211.4  K:-1268.3  R:-1675.8  S:-1691.4 | E-Q=-1211.4 E-bg=-161.6 Q-bg=1049.8
+C. LL of 550 TAG-site control residues (one-per-site); delta vs best: Q:0.0  bg:-437.4  E:-516.4  K:-539.6  S:-720.9  N:-744.7 | E-Q=-516.4 E-bg=-79.0 Q-bg=437.4
+   bootstrap 95% CI (sites resampled): E-Q [-583.6, -441.8]  E-bg [-128.2, -27.6]
+D. EM mixture weights (one residue per site): Q:0.72 E:0.06 S:0.06 K:0.04 A:0.02 L:0.02

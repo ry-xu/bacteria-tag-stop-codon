@@ -1,0 +1,113 @@
+42228 genomes tested
+
+== TAG: 46 genomes with >= 10 read-throughs, >= 8.0x the other stops' rate, rate >= 0.1, abs >= 4.0
+  GCA_052847575.1    72/96    0.75   x144.0  abs 72.0  others 0/21 0/1       comp        
+  GCA_056261325.1   167/405   0.412  x83.7   abs 55.7  others 3/532 0/280    comp        
+  GCA_965332555.1   181/484   0.374  x79.0   abs 60.3  others 3/435 0/376    comp        
+  GCA_045599485.1   201/376   0.535  x76.4   abs 67.0  others 3/566 3/492    comp 81.72  Bacillota;Clostridia;Christensenellales;Aristaeellaceae;SFMI01
+  GCA_056232285.1   347/690   0.503  x63.6   abs 86.8  others 4/512 1/184    comp        
+  GCA_002010075.1   113/168   0.673  x59.5   abs 28.2  others 1/193 4/407    comp 89.75  Halobacteriota;Methanosarcinia;DSM-18856;Methermicoccaceae;JdFR-19
+  GCA_024404275.1    92/181   0.508  x55.2   abs 30.7  others 3/445 2/331    comp 74.68  Bacillota;Clostridia;Christensenellales;Aristaeellaceae;SFMI01
+  GCA_030526225.1   106/260   0.408  x53.5   abs 26.5  others 2/698 4/356    comp 79.79  Bacillota;Clostridia;Christensenellales;Aristaeellaceae;JAUNDF01
+  GCA_003661015.1    87/116   0.75   x46.3   abs 17.4  others 1/26 0/58      comp 59.88  Halobacteriota;Methanosarcinia;DSM-18856;Methermicoccaceae;JdFR-19
+  GCA_021108275.1    23/54    0.426  x46.0   abs 23.0  others 0/83 0/98      comp  99.4  Halobacteriota;Methanosarcinia;Methanosarcinales;Methanosarcinaceae;Methanococcoides
+  GCA_001563305.1    20/44    0.455  x40.0   abs 20.0  others 0/10 0/157     comp 98.37  Thermoplasmatota;Thermoplasmata;Methanomassiliicoccales;Methanomethylophilaceae;Methanoprimaticola
+  GCA_949290385.1   281/739   0.38   x39.5   abs 56.2  others 4/496 5/509    comp 78.48  Verrucomicrobiota;Lentisphaeria;Victivallales;UBA1829;CASERY01
+  GCF_000979455.1    19/63    0.302  x38.0   abs 19.0  others 0/146 0/114    comp 99.93  Halobacteriota;Methanosarcinia;Methanosarcinales;Methanosarcinaceae;Methanosarcina
+  GCA_012518265.1    18/30    0.6    x36.0   abs 18.0  others 0/38 0/30      comp 80.89  Halobacteriota;Methanosarcinia;Methanosarcinales;Methanosarcinaceae;Methanofrustulum
+  GCA_000350305.1    21/27    0.778  x35.3   abs 6.3   others 0/22 1/264     comp 99.68  Thermoplasmatota;Thermoplasmata;Methanomassiliicoccales;Methanomethylophilaceae;Methanomethylophilus
+  GCA_016284295.1    16/53    0.302  x32.0   abs 16.0  others 0/16 0/182     comp 94.97  Thermoplasmatota;Thermoplasmata;Methanomassiliicoccales;Methanomethylophilaceae;Methanoprimaticola
+  GCA_964434965.1    16/52    0.308  x32.0   abs 16.0  others 0/139 0/107    comp 97.89  Halobacteriota;Methanosarcinia;Methanosarcinales;Methanosarcinaceae;Methanosarcina
+  GCA_045628485.1    58/131   0.443  x31.4   abs 9.7   others 6/489 6/676    comp 89.82  Bacillota;Clostridia;Christensenellales;Aristaeellaceae;ZC3RG03
+  GCF_900111645.1    15/39    0.385  x30.0   abs 15.0  others 0/86 0/83      comp 99.95  Halobacteriota;Methanosarcinia;Methanosarcinales;Methanosarcinaceae;Methanococcoides
+  GCA_009784005.1    15/42    0.357  x30.0   abs 15.0  others 0/57 0/56      comp 93.33  Halobacteriota;Methanosarcinia;Methanosarcinales;Methanosarcinaceae;Methanimicrococcus
+  GCF_000025865.1    15/28    0.536  x30.0   abs 15.0  others 0/95 0/83      comp 99.99  Halobacteriota;Methanosarcinia;Methanosarcinales;Methanosarcinaceae;Methanohalophilus
+  GCA_056209055.1    42/154   0.273  x29.7   abs 6.0   others 3/795 7/891    comp        
+  GCA_937907055.1    45/130   0.346  x28.2   abs 9.0   others 5/510 5/676    comp 88.96  Bacillota;Clostridia;Christensenellales;Aristaeellaceae;ZC3RG03
+  GCF_000013725.1    22/59    0.373  x28.2   abs 4.4   others 0/88 1/123     comp 99.89  Halobacteriota;Methanosarcinia;Methanosarcinales;Methanosarcinaceae;Methanococcoides
+  GCA_050180115.1    14/23    0.609  x28.0   abs 14.0  others 0/41 0/188     comp 98.06  Thermoplasmatota;Thermoplasmata;Methanomassiliicoccales;Methanomethylophilaceae;VadinCA11
+  GCA_015063235.1    13/50    0.26   x26.0   abs 13.0  others 0/18 0/176     comp 87.32  Thermoplasmatota;Thermoplasmata;Methanomassiliicoccales;Methanomethylophilaceae;Methanoprimaticola
+  GCA_964446755.1    13/30    0.433  x26.0   abs 13.0  others 0/92 0/57      comp 78.64  Halobacteriota;Methanosarcinia;Methanosarcinales;Methanosarcinaceae;Methanimicrococcus
+  GCA_030168575.1    12/32    0.375  x24.0   abs 12.0  others 0/19 0/179     comp 98.77  Thermoplasmatota;Thermoplasmata;Methanomassiliicoccales;Methanomethylophilaceae;Methanoprimaticola
+  GCA_031286065.1    12/45    0.267  x24.0   abs 12.0  others 0/89 0/69      comp 79.39  Halobacteriota;Methanosarcinia;Methanosarcinales;Methanosarcinaceae;Methanimicrococcus
+  GCA_904420535.1    12/56    0.214  x24.0   abs 12.0  others 0/120 0/45     comp 99.08  Bacillota;Dehalobacteriia;UBA7702;UBA7702;Cryptoclostridium
+  GCF_900774055.1    20/39    0.513  x22.5   abs 4.0   others 1/98 1/102     comp 99.93  Halobacteriota;Methanosarcinia;Methanosarcinales;Methanosarcinaceae;Methanococcoides
+  GCA_031260345.1    11/44    0.25   x22.0   abs 11.0  others 0/68 0/56      comp 76.46  Halobacteriota;Methanosarcinia;Methanosarcinales;Methanosarcinaceae;Methanimicrococcus
+  GCF_000970045.1    11/59    0.186  x22.0   abs 11.0  others 0/147 0/163    comp 99.91  Halobacteriota;Methanosarcinia;Methanosarcinales;Methanosarcinaceae;MTP4
+  GCA_023399215.1    11/53    0.208  x22.0   abs 11.0  others 0/151 0/104    comp 99.96  Halobacteriota;Methanosarcinia;Methanosarcinales;Methanosarcinaceae;Methanosarcina
+  GCF_000969905.1    11/87    0.126  x22.0   abs 11.0  others 0/159 0/118    comp 99.99  Halobacteriota;Methanosarcinia;Methanosarcinales;Methanosarcinaceae;Methanosarcina
+  GCA_009783635.1    11/22    0.5    x22.0   abs 11.0  others 0/46 0/49      comp 66.83  Halobacteriota;Methanosarcinia;Methanosarcinales;Methanosarcinaceae;Methanimicrococcus
+  GCA_002506175.1    11/26    0.423  x22.0   abs 11.0  others 0/11 0/120     comp 80.22  Thermoplasmatota;Thermoplasmata;Methanomassiliicoccales;Methanomethylophilaceae;Methanoprimaticola
+  GCF_000970265.1    11/53    0.208  x22.0   abs 11.0  others 0/154 0/118    comp 99.96  Halobacteriota;Methanosarcinia;Methanosarcinales;Methanosarcinaceae;Methanosarcina
+  GCF_000765475.1    20/41    0.488  x21.9   abs 4.0   others 1/90 1/108     comp 99.87  Halobacteriota;Methanosarcinia;Methanosarcinales;Methanosarcinaceae;Methanococcoides
+  GCA_017524805.1    20/95    0.211  x21.2   abs 4.0   others 0/35 1/179     comp 98.04  Thermoplasmatota;Thermoplasmata;Methanomassiliicoccales;Methanomethylophilaceae;Methanoprimaticola
+  GCA_015063165.1    21/121   0.174  x20.6   abs 4.2   others 0/29 1/205     comp 99.86  Thermoplasmatota;Thermoplasmata;Methanomassiliicoccales;Methanomethylophilaceae;Methanoprimaticola
+  GCA_028684695.1    10/16    0.625  x20.0   abs 10.0  others 0/83 0/63      comp  83.5  Halobacteriota;Methanosarcinia;Methanosarcinales;Methanosarcinaceae;JAQVBP01
+  GCF_000970285.1    10/86    0.116  x20.0   abs 10.0  others 0/149 0/135    comp 99.95  Halobacteriota;Methanosarcinia;Methanosarcinales;Methanosarcinaceae;Methanosarcina
+  GCA_006954465.1    10/67    0.149  x20.0   abs 10.0  others 0/15 0/174     comp 72.33  Thermoplasmatota;Thermoplasmata;Methanomassiliicoccales;Methanomethylophilaceae;Methanoprimaticola
+  GCA_964539695.1    44/260   0.169  x10.9   abs 6.6   others 1/55 2/165     comp  81.8  Thermoplasmatota;Thermoplasmata;Methanomassiliicoccales;Methanomethylophilaceae;Methanoprimaticola
+  GCF_050472005.1    26/109   0.239  x8.2    abs 5.2   others 25/1029 4/152  comp   100  Pseudomonadota;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Symbiopectobacterium
+
+== TGA: 103 genomes with >= 10 read-throughs, >= 8.0x the other stops' rate, rate >= 0.1, abs >= 4.0
+  GCA_963628375.1   485/1031  0.47   x970.0  abs 485.0 others 0/127 0/38     comp  88.2  Actinomycetota;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Gorillivita
+  GCA_020024755.1   425/1617  0.263  x850.0  abs 425.0 others 0/27 0/12      comp 96.08  Bacillota_I;Bacilli_A;Mycoplasmatales;Mycoplasmoidaceae;Mycoplasma_L
+  GCA_031265955.1   420/1020  0.412  x840.0  abs 420.0 others 0/15 0/5       comp 89.17  Bacillota_I;Bacilli_A;Mycoplasmatales;Mycoplasmoidaceae;Malacoplasma_A
+  GCA_046350815.1   375/1284  0.292  x750.0  abs 375.0 others 0/47 0/14      comp 98.27  Patescibacteriota;Gracilibacteria;BD1-5;UBA2023;JAXLZO01
+  GCF_010365785.1   369/887   0.416  x738.0  abs 369.0 others 0/15 0/4       comp 93.92  Bacillota_I;Bacilli_A;Mycoplasmatales;Mycoplasmataceae;TIUS-1
+  GCA_030536315.1   318/777   0.409  x636.0  abs 318.0 others 0/37 0/20      comp 75.36  Actinomycetota;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Equivita
+  GCA_947313745.1   268/677   0.396  x536.0  abs 268.0 others 0/31 0/9       comp 83.37  Bacillota_I;Bacilli_A;Mycoplasmatales;Hepatoplasmataceae;Tyloplasma
+  GCA_022705625.1   226/477   0.474  x452.0  abs 226.0 others 0/88 0/12      comp  85.3  Patescibacteriota;Minisyncoccia;UBA6257;JAKLIH01;JAKLIH01
+  GCA_964475745.1   219/456   0.48   x438.0  abs 219.0 others 0/101 0/24     comp 99.07  Patescibacteriota;Minisyncoccia;UBA6257;JAKLIH01;CAYGJE01
+  GCA_964403105.1   207/389   0.532  x414.0  abs 207.0 others 0/65 0/3       comp 90.19  Patescibacteriota;Minisyncoccia;UBA6257;JAKLIH01;CAZFNU01
+  GCA_028691405.1   203/436   0.466  x406.0  abs 203.0 others 0/82 0/14      comp 55.89  Patescibacteriota;Minisyncoccia;UBA6257;JAKLIH01;JAKLIH01
+  GCA_028702045.1   153/341   0.449  x306.0  abs 153.0 others 0/74 0/10      comp  68.9  Patescibacteriota;Minisyncoccia;UBA6257;JAKLIH01;JAQVPP01
+  GCA_964635125.1   115/215   0.535  x230.0  abs 115.0 others 0/93 0/20      comp 96.56  Patescibacteriota;Minisyncoccia;Phycocordibacterales;UBA5272;UBA5272
+  GCF_003253435.1   104/233   0.446  x208.0  abs 346.7 others 0/7 0/2        comp 99.36  Bacillota_I;Bacilli_A;Mycoplasmatales;Metamycoplasmataceae;Metamycoplasma
+  GCF_003383595.3    89/194   0.459  x178.0  abs 296.7 others 0/6 0/1        comp 98.84  Bacillota_I;Bacilli_A;Mycoplasmatales;Metamycoplasmataceae;Metamycoplasma
+  GCA_045617465.1    85/146   0.582  x170.0  abs 425.0 others 0/13 0/34      comp 85.71  Bacillota_I;Bacilli_A;Mycoplasmatales;Mycoplasmoidaceae;Hennigella
+  GCA_024427105.1    82/144   0.569  x164.0  abs 410.0 others 0/14 0/25      comp        
+  GCA_045598825.1    72/148   0.486  x144.0  abs 360.0 others 0/14 0/31      comp 87.02  Bacillota_I;Bacilli_A;Mycoplasmatales;Mycoplasmoidaceae;Hennigella
+  GCA_045641165.1    72/114   0.632  x144.0  abs 360.0 others 0/15 0/32      comp 87.73  Bacillota_I;Bacilli_A;Mycoplasmatales;Mycoplasmoidaceae;Hennigella
+  GCA_056189055.1    69/136   0.507  x138.0  abs 345.0 others 0/8 0/33       comp        
+  GCA_024427125.1    67/158   0.424  x134.0  abs 335.0 others 0/15 0/39      comp        
+  GCA_056188975.1    65/150   0.433  x130.0  abs 325.0 others 0/22 0/33      comp        
+  GCA_056221695.1    64/104   0.615  x128.0  abs 320.0 others 0/15 0/16      comp        
+  GCA_056229995.1    64/120   0.533  x128.0  abs 320.0 others 0/5 0/33       comp        
+  GCA_045657345.1    63/138   0.457  x126.0  abs 315.0 others 0/13 0/24      comp 88.44  Bacillota_I;Bacilli_A;Mycoplasmatales;Mycoplasmoidaceae;Mycoplasma_L
+  GCA_045599065.1    61/128   0.477  x122.0  abs 305.0 others 0/21 0/51      comp 85.33  Bacillota_I;Bacilli_A;Mycoplasmatales;Mycoplasmoidaceae;Hennigella
+  GCA_002749055.1    61/303   0.201  x122.0  abs 61.0  others 0/32 0/11      comp 87.62  Patescibacteriota;Gracilibacteria;BD1-5;UBA6164;PDTW01
+  GCA_024407795.1    60/168   0.357  x120.0  abs 300.0 others 0/50 0/122     comp        
+  GCA_024407855.1    59/142   0.415  x118.0  abs 295.0 others 0/16 0/33      comp        
+  GCF_000701865.1    59/121   0.488  x118.0  abs 295.0 others 0/19 0/18      comp 99.04  Bacillota_I;Bacilli_A;Mycoplasmatales;Metamycoplasmataceae;Mycoplasmopsis
+  GCA_049315825.1    59/200   0.295  x118.0  abs 196.7 others 0/25 0/14      comp 91.63  Patescibacteriota;Gracilibacteria;BD1-5;UBA2023;JBMOJK01
+  GCA_056205175.1    58/167   0.347  x116.0  abs 290.0 others 0/46 0/73      comp        
+  GCA_056191695.1    58/94    0.617  x116.0  abs 290.0 others 0/16 0/31      comp        
+  GCA_056304575.1    55/112   0.491  x110.0  abs 275.0 others 0/21 0/20      comp        
+  GCA_045617545.1    51/93    0.548  x102.0  abs 255.0 others 0/11 0/24      comp 59.59  Bacillota_I;Bacilli_A;Mycoplasmatales;Mycoplasmoidaceae;Hennigella
+  GCA_035437565.1    51/239   0.213  x102.0  abs 170.0 others 0/38 0/25      comp 77.27  Patescibacteriota;Gracilibacteria;BD1-5;UBA2023;UBA2023
+  GCA_964435215.1    47/240   0.196  x94.0   abs 47.0  others 0/25 0/4       comp 84.66  Patescibacteriota;Gracilibacteria;Absconditabacterales;Absconditicoccaceae;UBA6263
+  GCA_024427085.1    46/83    0.554  x92.0   abs 230.0 others 0/11 0/36      comp        
+  GCA_049301335.1    45/259   0.174  x90.0   abs 150.0 others 0/43 0/26      comp 90.09  Patescibacteriota;Gracilibacteria;BD1-5;UBA2023;JANJWP01
+  GCA_938015455.1    45/121   0.372  x90.0   abs 450.0 others 0/16 0/28      comp    91  Patescibacteriota;Gracilibacteria;BD1-5;UBA6164;JAACSU01
+  GCA_024407815.1    44/95    0.463  x88.0   abs 220.0 others 0/25 0/29      comp        
+  GCA_043741945.1    44/134   0.328  x88.0   abs 440.0 others 0/16 0/28      comp 97.32  Patescibacteriota;Gracilibacteria;BD1-5;UBA2023;JABFSX01
+  GCA_034717395.1    41/147   0.279  x82.0   abs 136.7 others 0/20 0/7       comp 81.56  Patescibacteriota;Gracilibacteria;JAYELJ01;JAYELJ01;JAYELJ01
+  GCA_031289475.1    38/81    0.469  x76.0   abs 380.0 others 0/16 0/16      comp  77.4  Bacillota_I;Bacilli_A;Mycoplasmatales;Mycoplasmoidaceae;Malacoplasma_A
+  GCF_000026765.1    38/75    0.507  x76.0   abs 380.0 others 0/8 0/9        comp 98.16  Bacillota_I;Bacilli_A;Mycoplasmatales;Metamycoplasmataceae;Mesomycoplasma
+  GCA_964495905.1    37/111   0.333  x74.0   abs 370.0 others 0/19 0/22      comp 88.75  Patescibacteriota;Gracilibacteria;Absconditabacterales;Absconditicoccaceae;CAJBLF01
+  GCA_027024305.1   186/464   0.401  x65.1   abs 186.0 others 1/136 0/61     comp 94.97  Patescibacteriota;Minisyncoccia;Phycocordibacterales;GCA-2747955;GCA-2747955
+  GCA_030836665.1    32/113   0.283  x64.0   abs 106.7 others 0/32 0/19      comp 79.98  Patescibacteriota;Gracilibacteria;BD1-5;UBA2023;JANJWP01
+  GCA_017993345.1    31/91    0.341  x62.0   abs 310.0 others 0/13 0/18      comp 80.65  Patescibacteriota;Gracilibacteria;BD1-5;UBA2023;CANBWW01
+  GCA_043778965.1    30/104   0.288  x60.0   abs 300.0 others 0/12 0/35      comp 86.01  Patescibacteriota;Gracilibacteria;BD1-5;UBA2023;JAGOMW01
+  GCA_964609035.1    30/122   0.246  x60.0   abs 150.0 others 0/45 0/50      comp  94.9  Patescibacteriota;Gracilibacteria;Absconditabacterales;Absconditicoccaceae;JALOAF01
+  GCA_042852035.1    30/118   0.254  x60.0   abs 300.0 others 0/27 0/35      comp 90.79  Patescibacteriota;Gracilibacteria;BD1-5;UBA2023;JAGOMW01
+  GCA_949289925.1    29/70    0.414  x58.0   abs 290.0 others 0/6 0/10       comp    74  Bacillota_I;Bacilli_A;Mycoplasmatales;Mycoplasmoidaceae;Mycoplasma_L
+  GCA_022709715.1   233/631   0.369  x56.2   abs 233.0 others 1/146 0/27     comp 98.78  Patescibacteriota;Minisyncoccia;UBA6257;JAKLIH01;JAKLIH01
+  GCA_014238525.1    28/52    0.538  x56.0   abs 280.0 others 0/12 0/9       comp 77.43  Bacillota_I;Bacilli_A;Mycoplasmatales;JABAAY01;JABAAY01
+  GCA_964598195.1    28/128   0.219  x56.0   abs 280.0 others 0/15 0/29      comp 82.66  Patescibacteriota;Gracilibacteria;BD1-5;UBA2023;UBA1545
+  GCA_964509275.1   185/364   0.508  x53.8   abs 185.0 others 1/101 0/23     comp  95.7  Patescibacteriota;Minisyncoccia;Phycocordibacterales;GCA-2747955;GCA-2747955
+  GCA_031284985.1    25/79    0.316  x50.0   abs 250.0 others 0/8 0/14       comp 81.97  Bacillota_I;Bacilli_A;Mycoplasmatales;Mycoplasmoidaceae;Malacoplasma_A
+  GCA_002761215.1    24/100   0.24   x48.0   abs 120.0 others 0/165 0/5      comp 96.71  Patescibacteriota;Gracilibacteria;BD1-5;UBA6164;GN02-872
+  GCA_034112165.1    24/72    0.333  x48.0   abs 240.0 others 0/17 0/16      comp 70.65  Patescibacteriota;Gracilibacteria;BD1-5;UBA6164;JAACSU01
+
+== TAA: 0 genomes with >= 10 read-throughs, >= 8.0x the other stops' rate, rate >= 0.1, abs >= 4.0

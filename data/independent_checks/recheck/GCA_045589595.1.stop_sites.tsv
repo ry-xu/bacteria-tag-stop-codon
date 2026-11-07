@@ -1,0 +1,5 @@
+contig	strand	codon_start	codon	best_query	query_pos	query_residue	bitscore	evalue	qlen	qstart	qend	contig_len	codons_to_hsp_edge
+JAZNPK010000010.1	1	103493	TAG	Ec|lysS|P0A8N3	35	A	80.1	1.15e-16	505	27	347	132760	8
+JAZNPK010000028.1	-1	102623	TGA	Ec|ftsH|P0AAI3	None	-	500.0	6.93e-158	644	5	624	167122	29
+JAZNPK010000037.1	-1	94518	TAA	Ec|ffh|P0AGD7	298	G	122.0	1.38e-30	453	9	311	122132	13
+JAZNPK010000037.1	-1	95439	TGA	Ec|ftsY|P10121	None	-	241.0	1.81e-70	497	189	492	122132	7

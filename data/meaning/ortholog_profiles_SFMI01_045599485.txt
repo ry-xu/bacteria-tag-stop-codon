@@ -1,0 +1,20 @@
+GCA_045599485.1: test codon TAG, orthologs >= 60.0% identity; 169 test sites, 240583 background sites
+  residue  test%   background%  enrichment
+    E      49.7     6.4       7.76
+    D       6.5     5.9       1.11
+    A       6.5    10.0       0.65
+    L       5.9     9.7       0.61
+    P       5.3     4.2       1.26
+    Q       5.3     3.7       1.45
+    R       4.7     6.3       0.75
+    T       4.1     5.4       0.77
+    S       3.0     5.1       0.58
+    G       1.8     7.6       0.23
+  log-likelihood of the test sites' orthologous residues, relative to best:
+    E +0, background(any codon) -128, D -149, Q -156, A -202, K -218, S -220, N -224
+  mixture weights (EM): E 0.85, P 0.05, L 0.04, R 0.02, T 0.02   [logL +6 vs best single]
+  calibration GCC (A): n=12058, orthologous residue A 57%, S 4%, E 4%
+  calibration GCG (A): n=5609, orthologous residue A 55%, V 4%, L 4%
+  calibration CAG (Q): n=6668, orthologous residue Q 49%, E 6%, A 6%
+  calibration AAG (K): n=8034, orthologous residue K 49%, R 10%, A 5%
+  calibration TGG (W): n=2043, orthologous residue W 59%, L 4%, Y 4%

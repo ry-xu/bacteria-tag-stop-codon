@@ -1,0 +1,4 @@
+GCA_937907055.1 reads from SRR6425796 (first 40116351 spots): 238628 mapped reads
+in-frame TAG sites: 201; covered by >= 3 reads: 199 (median depth 10)
+TAG in >= 90% of reads: 179; mixed: 20; TAG in <= 10%: 0
+other codons at non-fixed sites: [('CAG', 51), ('GAG', 13), ('CTG', 5), ('CAT', 4), ('AAG', 4), ('TAT', 3), ('TGG', 3), ('TNG', 1)]

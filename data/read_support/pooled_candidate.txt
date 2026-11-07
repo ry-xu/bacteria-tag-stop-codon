@@ -1,0 +1,3 @@
+GCA_056209055.1: 212 TAG sites with reads in 4 runs; 209 covered (>= 3 reads) in >= 1 run (by number of runs: {1: 17, 2: 45, 3: 67, 4: 80})
+  TAG fixed (>= 90% of reads) in every covering run: 158; in at least one: 203; TAG <= 10% in any run: 0
+  sites with an alternative codon in >= 2 reads of one run: 22 -> [('CAG', 10), ('TGG', 9), ('AAG', 1), ('TAC', 1), ('GAG', 1)]

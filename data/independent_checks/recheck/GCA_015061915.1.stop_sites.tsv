@@ -1,0 +1,2 @@
+contig	strand	codon_start	codon	best_query	query_pos	query_residue	bitscore	evalue	qlen	qstart	qend	contig_len	codons_to_hsp_edge
+SUVR01000011.1	-1	34608	TAA	Ec|murC|P17952	478	I	110.0	2.45e-26	491	17	482	92813	4
