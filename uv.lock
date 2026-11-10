@@ -16,7 +16,7 @@ wheels = [
 ]
 
 [[package]]
-name = "bacterial-tag-recoding"
+name = "bacteria-tag-stop-codon"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

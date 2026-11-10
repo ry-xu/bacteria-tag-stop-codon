@@ -1,5 +1,5 @@
 [project]
-name = "bacterial-tag-recoding"
+name = "bacteria-tag-stop-codon"
 version = "0.1.0"
 description = "Analysis code and data: bacteria that read the TAG stop codon as an amino acid genome-wide"
 requires-python = ">=3.11"
