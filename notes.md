@@ -15,8 +15,6 @@ come from the guts of hindgut-fermenting mammals (horses, Tibetan wild asses, a 
 computational, from uncultured metagenome-assembled genomes (MAGs). No protein data exist for any of these organisms.**
 We are posting it so that experts can check it.
 
-![Read-through screen](figures/readthrough_screen.png)
-
 ## What was known
 - **Bacteria.** Every bacterial stop-codon reassignment reported so far is at UGA: UGA to Trp (NCBI code 4:
   Mycoplasmatales and Spiroplasma; also some Patescibacteriota and, in 2026, Actinomycetota, Parks et al. 2026) and
@@ -261,12 +259,6 @@ scripts/reproduce_core.sh                 # read-through, RF1, ortholog tests fo
   overridable, `rank_readers`/`figure2` able to read the shipped screen table. Also contains `independent_checks/` (the
   re-check scripts and their shared inputs) and `trna_hunt/`.
 - `data/`: small result tables; see [`data/README.md`](data/README.md).
-- `figures/`:
-  - `readthrough_screen.png`: the expert figure, made by `src/figure2.py`. It shows every genome tested and the
-    Aristaeellaceae tree.
-  - `1_code_table` to `5_proof`: public summary figures. These are drafts copied on 2026-11-06 and may still change.
-    They number the lineages in tree order: their 1 = L2 SFMI01, 2 = L3, 3 = L4, 4 = L6, 5 = L5, 6 = L1. Their
-    source scripts are not included.
 - `scripts/`: setup, CNGB download, core reproduction.
 
 ## Credit
