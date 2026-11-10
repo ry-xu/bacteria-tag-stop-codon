@@ -1,3 +1,11 @@
+Unless a file states otherwise:
+
+- Text (README, notes), data tables and figures are licensed under the Creative Commons Attribution 4.0 International
+  License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+- Code is licensed under the MIT License below.
+- data/reference/ holds subsets of UniProtKB/Swiss-Prot (CC BY 4.0). Tables in data/screen/ are computed from GTDB R232
+  and NCBI GenBank records.
+
 MIT License
 
 Copyright (c) 2026 Ryan Xu
