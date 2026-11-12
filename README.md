@@ -1,3 +1,6 @@
+> **This repository is frozen.** The work now lives on, together with later results, at
+> [github.com/ry-xu/genome-research](https://github.com/ry-xu/genome-research) (folder `tag-bacteria`).
+
 # Bacteria that read the stop codon TAG as an amino acid
 
 Almost every gene ends in one of three stop codons: TAA, TAG or TGA. Bacteria were known to rewrite TGA into an amino acid
